@@ -1,0 +1,311 @@
+/*-- scss:defaults --*/
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+$font-family-sans-serif: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+$font-family-monospace: 'SF Mono', Monaco, 'Cascadia Code', 'Roboto Mono', Consolas, 'Courier New', monospace;
+
+// Color palette
+$primary: #2563eb;
+$secondary: #64748b;
+$success: #10b981;
+$info: #0ea5e9;
+$warning: #f59e0b;
+$danger: #ef4444;
+$light: #f8fafc;
+$dark: #1e293b;
+
+// Custom colors
+$accent-blue: #3b82f6;
+$accent-indigo: #6366f1;
+$text-muted: #64748b;
+$border-color: #e2e8f0;
+
+/*-- scss:rules --*/
+
+// Typography
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+  line-height: 1.2;
+  margin-bottom: 1rem;
+}
+
+h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: $dark;
+}
+
+h2 {
+  font-size: 2rem;
+  color: $dark;
+  border-bottom: 2px solid $border-color;
+  padding-bottom: 0.5rem;
+  margin-top: 2rem;
+}
+
+h3 {
+  font-size: 1.5rem;
+  color: $primary;
+  margin-top: 1.5rem;
+}
+
+// Body text
+body {
+  font-size: 1rem;
+  line-height: 1.6;
+  color: $dark;
+}
+
+p {
+  margin-bottom: 1rem;
+}
+
+// Links
+a {
+  color: $primary;
+  text-decoration: none;
+  transition: color 0.2s ease;
+
+  &:hover {
+    color: $accent-blue;
+    text-decoration: underline;
+  }
+}
+
+// Code blocks
+pre {
+  background-color: #f8fafc;
+  border: 1px solid $border-color;
+  border-radius: 0.5rem;
+  padding: 1rem;
+  overflow-x: auto;
+}
+
+code {
+  background-color: #f1f5f9;
+  padding: 0.2rem 0.4rem;
+  border-radius: 0.25rem;
+  font-size: 0.875rem;
+  color: #e11d48;
+}
+
+// Tables
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1rem;
+
+  th, td {
+    padding: 0.75rem;
+    text-align: left;
+    border-bottom: 1px solid $border-color;
+  }
+
+  th {
+    background-color: $light;
+    font-weight: 600;
+    color: $dark;
+  }
+
+  tr:hover {
+    background-color: #f8fafc;
+  }
+}
+
+// Blockquotes
+blockquote {
+  border-left: 4px solid $primary;
+  padding-left: 1rem;
+  margin: 1.5rem 0;
+  font-style: italic;
+  color: $text-muted;
+}
+
+// Navigation
+.navbar {
+  padding: 1rem 0;
+
+  .navbar-brand {
+    font-weight: 700;
+    font-size: 1.25rem;
+    color: $dark;
+  }
+
+  .nav-link {
+    font-weight: 500;
+    color: $text-muted;
+
+    &:hover {
+      color: $primary;
+    }
+
+    &.active {
+      color: $primary;
+    }
+  }
+}
+
+// Footer
+.page-footer {
+  background-color: $light;
+  padding: 2rem 0;
+  margin-top: 4rem;
+  border-top: 1px solid $border-color;
+
+  a {
+    color: $text-muted;
+
+    &:hover {
+      color: $primary;
+    }
+  }
+}
+
+// About page specific styles
+.about-contents {
+  .about-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.5rem 1rem;
+    margin: 0.25rem;
+    background-color: $light;
+    border: 1px solid $border-color;
+    border-radius: 0.5rem;
+    color: $text-muted;
+    text-decoration: none;
+    font-weight: 500;
+    transition: all 0.2s ease;
+
+    &:hover {
+      background-color: $primary;
+      color: white;
+      border-color: $primary;
+      text-decoration: none;
+    }
+  }
+}
+
+// Publication lists
+.publication-item {
+  margin-bottom: 1.5rem;
+  padding: 1rem;
+  border: 1px solid $border-color;
+  border-radius: 0.5rem;
+  background-color: white;
+
+  .publication-title {
+    font-weight: 600;
+    color: $dark;
+    margin-bottom: 0.5rem;
+  }
+
+  .publication-authors {
+    color: $text-muted;
+    margin-bottom: 0.5rem;
+  }
+
+  .publication-venue {
+    font-style: italic;
+    color: $primary;
+    margin-bottom: 0.5rem;
+  }
+
+  .publication-links {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+
+    a {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.25rem;
+      padding: 0.25rem 0.5rem;
+      background-color: $light;
+      border: 1px solid $border-color;
+      border-radius: 0.25rem;
+      color: $text-muted;
+      text-decoration: none;
+      font-size: 0.875rem;
+
+      &:hover {
+        background-color: $primary;
+        color: white;
+        border-color: $primary;
+      }
+    }
+  }
+}
+
+// Project cards
+.project-card {
+  border: 1px solid $border-color;
+  border-radius: 0.5rem;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  background-color: white;
+  transition: box-shadow 0.2s ease;
+
+  &:hover {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  }
+
+  .project-title {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: $dark;
+    margin-bottom: 0.5rem;
+  }
+
+  .project-description {
+    color: $text-muted;
+    margin-bottom: 1rem;
+  }
+
+  .project-links {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+  }
+}
+
+// Responsive design
+@media (max-width: 768px) {
+  h1 {
+    font-size: 2rem;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+  }
+
+  .navbar {
+    padding: 0.5rem 0;
+  }
+
+  .publication-links,
+  .project-links {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
+
+// Print styles
+@media print {
+  .navbar,
+  .page-footer {
+    display: none;
+  }
+
+  a {
+    color: $dark;
+    text-decoration: none;
+  }
+
+  .publication-item,
+  .project-card {
+    break-inside: avoid;
+    border: 1px solid #ccc;
+    margin-bottom: 1rem;
+  }
+}

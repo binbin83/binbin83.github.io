@@ -1,0 +1,165 @@
+---
+title: "Research Projects"
+description: "Current and past research projects"
+---
+
+## Current Projects
+
+### TALANT Project (2025-present)
+**Traitement Automatique du LANgage Traumatique**
+
+- **Funding**: 150k€ CNRS Innovation Prematuration Grant
+- **Role**: Principal Investigator
+- **Collaborator**: Prof. Frédérique Gayraud
+- **Institution**: CESSP/ISC-PIF, Paris
+
+The TALANT project aims to develop automated tools for trauma language analysis by combining computational linguistics, psychology, and clinical research. This interdisciplinary project focuses on creating Clinical Decision Support Systems (CDSS) for PTSD detection through Natural Language Processing.
+
+**Key Objectives**:
+- Develop NLP algorithms for trauma language identification
+- Create clinical decision support tools for healthcare professionals
+- Validate linguistic markers of PTSD across different populations
+- Establish ethical frameworks for AI in mental health applications
+
+---
+
+## Completed Projects
+
+### Ph.D. Research: Psycholinguistic Profiles for PTSD (2020-2024)
+**Construction de profils psycholinguistiques pour le Trouble de Stress Post-Traumatique à l'aide du TALN**
+
+- **Institution**: École Pratique des Hautes Études (EPHE, PSL)
+- **Supervisors**: Dr. Salma Mesmoudi, Prof. Jacques Dayan
+- **Defended**: December 20, 2024
+
+This doctoral research focused on developing computational methods to identify linguistic markers of Post-Traumatic Stress Disorder using Natural Language Processing techniques.
+
+**Key Achievements**:
+- Developed novel NLP algorithms for PTSD detection
+- Published systematic literature review in *Journal of the American Medical Informatics Association*
+- Created open-source tools for psycholinguistic analysis
+- Established international collaborations with Hebrew University and UQTR
+
+**Publications**:
+- [Systematic Literature Review](https://doi.org/10.1093/jamia/ocaf075)
+- [Interdisciplinary Approach](https://www.nature.com/articles/s41598-024-61557-7)
+- [Figures of Speech Analysis](https://hal.science/hal-05088954)
+
+### Ministry of Health Data Science (2020-2021)
+**AI for Medical Incident Analysis**
+
+- **Institution**: French Ministry of Health, Paris
+- **Role**: Data Scientist
+- **Technologies**: SVM, bi-LSTM, Docker, FastAPI
+
+Developed machine learning classifiers for analyzing medical incident reports to improve healthcare safety and quality assurance.
+
+**Key Contributions**:
+- Built SVM and bi-LSTM models for incident classification
+- Deployed production-ready FastAPI service with Docker
+- Improved incident detection accuracy by 35%
+- Created automated reporting system for healthcare administrators
+
+**Code**: [GitHub Repository](https://github.com/etalab-ia/ami-ia-dgs)
+
+### #MeToo Cross-Cultural Analysis (2018-2019)
+**Denouncing Sexual Violence: A Cross-Language Study**
+
+- **Institution**: Georgia Tech UbiComp Lab, Atlanta, USA
+- **Collaborators**: Prof. Rosa Arriaga, Isabella Lopez, Harry Evans
+- **Conference**: INTERACT 2019
+
+Cross-cultural computational analysis of the #MeToo and #BalanceTonPorc movements using social media data.
+
+**Key Findings**:
+- Identified cultural differences in trauma discourse expression
+- Developed multilingual sentiment analysis tools
+- Published at premier HCI conference (INTERACT 2019)
+- Created open-source tools for cross-cultural social media analysis
+
+**Publications**:
+- [INTERACT 2019 Paper](https://inria.hal.science/hal-02544580/document)
+- [Code Repository](https://github.com/binbin83/metoo_project)
+
+---
+
+## Ongoing Collaborations
+
+### Semantic Perseveration in Psychiatry (2024-present)
+**With Isaac Fradkin, Hebrew University of Jerusalem**
+
+- **Status**: Manuscript under review at *Schizophrenia Bulletin*
+- **Conference**: Poster accepted at Computational Psychiatry Conference 2025
+- **Focus**: Theory-driven generative language simulations for psychiatric conditions
+
+This collaboration explores the paradoxical relationship between semantic perseveration and incoherence in psychiatric conditions using computational modeling.
+
+**Code**: [GitHub Repository](https://github.com/psycholinguistics2125/paraphrase_detection)
+
+### Intimate Partner Violence Language Analysis (2024-present)
+**With Telma Mimault, Université du Québec à Trois-Rivières**
+
+- **Status**: Manuscript under review at *Journal of Psychiatric Research*
+- **Focus**: Linguistic analysis of trauma discourse in IPV perpetrators
+- **Methods**: French NLP, trauma language analysis, clinical assessment
+
+**Code**: [GitHub Repository](https://github.com/psycholinguistics2125/violent_men)
+
+### Semi-Structured Interview Analysis (2024)
+**With Camille Payet**
+
+- **Conference**: JADT 2024, LesLa
+- **Focus**: French NLP approaches for social sciences research
+- **Deliverable**: Open-source toolbox for French interview analysis
+
+**Publications**:
+- [JADT 2024 Paper](https://hal.science/hal-04627806)
+- [SSI Toolbox](https://github.com/psycholinguistics2125/ssi-toolbox-fr)
+
+---
+
+## Tools and Software
+
+### Open Source Contributions
+
+All research projects include open-source code contributions to ensure reproducibility and community benefit:
+
+- **psycholinguistics2125**: [GitHub Organization](https://github.com/psycholinguistics2125) - Main repository for psycholinguistic analysis tools
+- **binbin83**: [Personal GitHub](https://github.com/binbin83) - Individual projects and collaborations
+- **NLP-for-Psycholinguistic**: [Specialized tools](https://github.com/NLP-for-Psycholinguistic) - Text coherence and analysis pipelines
+
+### Technologies Used
+
+**Programming Languages**: Python (advanced), R, SQL  
+**ML/DL Frameworks**: TensorFlow, PyTorch, spaCy, Hugging Face  
+**Deployment**: Docker, FastAPI, Git  
+**Specializations**: NLP, Clinical Decision Support, Explainable AI
+
+---
+
+## Impact and Recognition
+
+### Awards and Funding
+- **150k€ CNRS Innovation Prematuration Grant** (2025) - TALANT Project
+- **Nominated for Prix solennel de thèse** - Chancellerie des Universités de Paris (2025)
+
+### Industry Engagement
+- **Scientific Advisor**, Celeste Technology (2023) - French mental health chatbot startup
+- **Peer Reviewer**: BJPsych Open, Annales Médico-Psychologiques
+
+### Teaching and Mentoring
+- **MSc Supervisor**: Samuel Boccara (2024) - Clinical NLP thesis
+- **Guest Lecturer**: Université Paris 1 (2024) - [Recorded seminar](https://www.youtube.com/watch?v=l9kvqLFBqNY)
+
+---
+
+## Future Directions
+
+### Upcoming Projects
+- **Multilingual PTSD Detection**: Expanding TALANT to multiple languages
+- **Clinical Trial Integration**: Partnering with hospitals for real-world validation
+- **Ethical AI Framework**: Developing guidelines for mental health AI applications
+
+### Funding Applications
+- **ERC Starting Grant**: Computational approaches to trauma language (in preparation)
+- **ANR Project**: Collaborative grant with clinical partners (submitted)

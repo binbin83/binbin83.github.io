@@ -1,0 +1,54 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Robin Quillivic"
+  description: "Post-doctoral researcher in Clinical Decision Support Systems and Natural Language Processing for mental health"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: publications.qmd
+        text: Publications
+      - href: projects.qmd
+        text: Projects
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.qmd
+        text: CV
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: github
+        href: https://github.com/binbin83
+      - icon: envelope
+        href: mailto:quillivicrobin@hotmail.fr
+      - text: "ORCID"
+        href: https://orcid.org/0000-0009-9372-0173
+
+  page-footer:
+    left: "© 2025 Robin Quillivic. All rights reserved."
+    right: "Built with [Quarto](https://quarto.org/)"
+
+format:
+  html:
+    theme: [cosmo, custom.scss]
+    css: styles.css
+    toc: true
+    toc-location: right
+    link-external-newwindow: true
+    link-external-icon: true
+    code-copy: true
+    code-overflow: wrap
+    smooth-scroll: true
+    anchor-sections: true
+    citations-hover: true
+    footnotes-hover: true
+    highlight-style: github
+    html-math-method: katex
+    include-in-header: |
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+      <meta name="google-site-verification" content="your-verification-code-here">

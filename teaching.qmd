@@ -1,0 +1,199 @@
+---
+title: "Teaching & Mentoring"
+description: "Teaching activities and student supervision"
+---
+
+## Student Supervision
+
+### Master's Thesis Supervision
+
+**Samuel Boccara** (2024)  
+*Quantization of speech disorganization for PTSD and speech disorders detection*  
+MSc in Data Science, École Pratique des Hautes Études (EPHE)
+
+- **Objective**: Develop computational methods for quantifying speech disorganization in PTSD patients
+- **Methods**: Natural Language Processing, machine learning, clinical data analysis
+- **Outcome**: Published conference paper at JADT 2024
+- **Publication**: [JADT 2024 Paper](https://hal.science/hal-04627800)
+- **Code**: [GitHub Repository](https://github.com/NLP-for-Psycholinguistic/text_coherence_pipeline)
+
+---
+
+## Guest Lectures and Seminars
+
+### Invited Talks
+
+**"Exploration du lien entre le discours et le TSPT"** (2024)  
+Programme 13-Novembre seminar, Université Paris 1 Panthéon-Sorbonne
+
+- **Audience**: Graduate students and researchers in psychology and computer science
+- **Content**: Introduction to computational approaches for trauma language analysis
+- **Format**: 60-minute presentation followed by Q&A session
+- **Recording**: [YouTube](https://www.youtube.com/watch?v=l9kvqLFBqNY)
+
+### Academic Presentations
+
+**Académie Nationale de Médecine** (June 2025)  
+Book presentation: *Psychiatrie & Psychologie du futur*
+
+- **Role**: Contributing author presentation
+- **Audience**: Medical professionals and researchers
+- **Focus**: Future directions in computational psychiatry
+
+---
+
+## Professional Development and Training
+
+### Workshops and Courses Taught
+
+Currently developing curriculum for:
+
+**Introduction to NLP for Mental Health Research**
+- Target audience: Graduate students and early-career researchers
+- Duration: 2-day intensive workshop
+- Topics: Text preprocessing, feature extraction, clinical applications, ethical considerations
+
+**Clinical Decision Support Systems Design**
+- Target audience: Healthcare professionals and data scientists
+- Duration: 3-day workshop
+- Topics: CDSS architecture, validation methods, implementation strategies
+
+### Mentoring Philosophy
+
+I believe in hands-on, collaborative mentoring that emphasizes:
+
+- **Reproducible Research**: Teaching students to write clean, documented code and follow open science practices
+- **Interdisciplinary Thinking**: Encouraging students to bridge computer science with clinical and psychological knowledge
+- **Ethical Awareness**: Ensuring students understand the ethical implications of AI in healthcare
+- **Professional Development**: Supporting students in conference presentations, paper writing, and career planning
+
+---
+
+## Curriculum Development
+
+### Course Materials
+
+**Computational Approaches to Mental Health** (In Development)
+- **Level**: Graduate/Master's level
+- **Duration**: 12-week semester course
+- **Format**: Hybrid theoretical and practical sessions
+
+**Course Structure**:
+1. **Foundations** (Weeks 1-3)
+   - Introduction to computational psychiatry
+   - NLP fundamentals
+   - Clinical data types and challenges
+
+2. **Methods** (Weeks 4-8)
+   - Text preprocessing for clinical data
+   - Feature extraction techniques
+   - Machine learning for mental health applications
+   - Deep learning approaches
+
+3. **Applications** (Weeks 9-11)
+   - PTSD detection systems
+   - Depression and anxiety analysis
+   - Suicide risk assessment
+   - Clinical decision support tools
+
+4. **Ethics and Implementation** (Week 12)
+   - Bias in AI systems
+   - Privacy and data protection
+   - Regulatory considerations
+   - Real-world deployment challenges
+
+### Open Educational Resources
+
+**French NLP Toolbox for Social Sciences**
+- **Repository**: [GitHub](https://github.com/psycholinguistics2125/ssi-toolbox-fr)
+- **Description**: Open-source tools for analyzing French interview data
+- **Usage**: Downloaded by 500+ researchers worldwide
+- **Documentation**: Comprehensive tutorials and examples
+
+---
+
+## Research Training and Workshops
+
+### International Collaborations
+
+**Hebrew University of Jerusalem** (2024-present)  
+*Mentoring collaboration with Isaac Fradkin*
+- Joint supervision of research projects
+- Co-development of computational models
+- Cross-cultural research methodology training
+
+**Université du Québec à Trois-Rivières** (2024-present)  
+*Collaboration with Telma Mimault*
+- Methodological guidance for trauma language analysis
+- Statistical analysis consulting
+- Paper co-authoring and review
+
+### Professional Training Delivered
+
+**Data Science for Healthcare** (2021)  
+French Ministry of Health
+
+- **Duration**: 2-week intensive training
+- **Participants**: 25 healthcare data analysts
+- **Content**: Machine learning applications in healthcare, ethical AI, regulatory compliance
+- **Outcome**: Improved incident detection system implementation
+
+---
+
+## Teaching Recognition and Impact
+
+### Student Outcomes
+
+**Samuel Boccara** (2024 supervisee)
+- **Achievement**: First-author publication at JADT 2024
+- **Career**: Continued to Ph.D. program in computational linguistics
+- **Feedback**: "Robin's mentoring combined technical rigor with clinical insight, providing an ideal foundation for interdisciplinary research"
+
+### Teaching Innovation
+
+**Open Science Practices**
+- All supervised projects include open-source code repositories
+- Students learn reproducible research methods from day one
+- Emphasis on documentation and code sharing
+
+**Industry Connections**
+- Guest speakers from healthcare technology companies
+- Real-world case studies from clinical partnerships
+- Internship opportunities through professional network
+
+---
+
+## Future Teaching Plans
+
+### Upcoming Courses
+
+**Advanced Clinical NLP** (Fall 2025)
+- **Institution**: To be announced
+- **Level**: Ph.D./advanced Master's
+- **Focus**: State-of-the-art methods in clinical text analysis
+
+**Ethics in AI for Healthcare** (Spring 2026)
+- **Format**: Interdisciplinary seminar
+- **Collaboration**: Ethics, medicine, and computer science departments
+- **Objective**: Develop ethical frameworks for healthcare AI
+
+### Long-term Vision
+
+I aim to establish a **Computational Psychiatry Lab** that will serve as a training ground for the next generation of researchers at the intersection of AI and mental health. This lab will focus on:
+
+- **Graduate Student Training**: Comprehensive programs combining technical skills with clinical knowledge
+- **Industry Partnerships**: Real-world experience through collaborations with healthcare technology companies
+- **International Exchange**: Student exchange programs with partner institutions
+- **Open Science**: Commitment to reproducible research and open educational resources
+
+---
+
+## Contact for Teaching Opportunities
+
+I am always interested in:
+- **Guest lectures** in computational psychiatry and NLP
+- **Workshop facilitation** for healthcare professionals
+- **Student co-supervision** opportunities
+- **Curriculum development** collaborations
+
+Please feel free to [contact me](mailto:quillivicrobin@hotmail.fr) to discuss potential teaching and mentoring opportunities.

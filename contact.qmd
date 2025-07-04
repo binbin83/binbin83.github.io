@@ -1,0 +1,158 @@
+---
+title: "Contact"
+description: "Get in touch"
+---
+
+## Get in Touch
+
+I'm always interested in discussing research collaborations, potential projects, and opportunities in computational psychiatry and natural language processing for mental health.
+
+### Professional Contact
+
+**Email**: [quillivicrobin@hotmail.fr](mailto:quillivicrobin@hotmail.fr)  
+**Phone**: +33 7 69 70 64 95
+
+### Current Position
+
+**Post-doctoral Researcher**  
+Centre Européen de Sociologie et de Science Politique (CESSP UMR 8209)  
+Resident at Centre for Complex Systems (ISC-PIF, CNRS UAR 3611)  
+Paris, France
+
+### Research Profiles
+
+- **ORCID**: [0000-0009-9372-0173](https://orcid.org/0000-0009-9372-0173)
+- **Google Scholar**: [Profile](https://scholar.google.com/citations?user=your-id)
+- **HAL**: [Publications](https://hal.science/search/index/q/*/authFullName_s/Robin+Quillivic)
+- **GitHub**: [binbin83](https://github.com/binbin83) | [psycholinguistics2125](https://github.com/psycholinguistics2125)
+
+---
+
+## Areas of Interest
+
+I'm particularly interested in connecting with:
+
+### Researchers and Academics
+- **Computational Psychiatry**: Collaborations on AI applications in mental health
+- **Natural Language Processing**: Joint projects on clinical text analysis
+- **Psycholinguistics**: Interdisciplinary research on language and psychology
+- **Clinical Decision Support**: Healthcare AI implementation and validation
+
+### Industry and Healthcare
+- **Healthcare Technology**: Consulting on AI for mental health applications
+- **Clinical Partners**: Validation studies and real-world implementation
+- **Startups**: Technical advisory roles in mental health technology
+- **Policy and Ethics**: AI governance in healthcare settings
+
+### Students and Early-Career Researchers
+- **Mentoring**: Graduate student supervision and career guidance
+- **Internships**: Research opportunities in computational psychiatry
+- **Collaboration**: Joint projects and publications
+- **Training**: Workshops and educational programs
+
+---
+
+## Current Projects
+
+### TALANT Project
+I'm currently leading the **TALANT** (Traitement Automatique du LANgage Traumatique) project, a 150k€ CNRS-funded initiative developing automated tools for trauma language analysis. 
+
+**Looking for**:
+- Clinical partners for validation studies
+- International collaborators for multilingual extensions
+- Industry partners for technology transfer
+
+### Open Source Contributions
+All my research includes open-source components. I welcome:
+- Code contributions and improvements
+- Bug reports and feature requests
+- Documentation improvements
+- New use cases and applications
+
+---
+
+## Speaking and Consulting
+
+### Available for:
+- **Conference presentations** on computational psychiatry and clinical NLP
+- **Guest lectures** at universities and research institutions
+- **Workshop facilitation** for healthcare professionals
+- **Technical consulting** on AI implementation in healthcare
+- **Scientific advisory** roles for healthcare technology companies
+
+### Recent Engagements:
+- **Université Paris 1**: Guest seminar on trauma language analysis ([Recording](https://www.youtube.com/watch?v=l9kvqLFBqNY))
+- **Académie Nationale de Médecine**: Book presentation on future of psychiatry and psychology
+- **Celeste Technology**: Scientific advisor for mental health chatbot
+
+---
+
+## Media and Press
+
+For media inquiries about computational psychiatry, AI in healthcare, or my research findings, please contact me directly. I'm available for:
+
+- **Research interviews** and science communication
+- **Expert commentary** on AI in mental health
+- **Popular science writing** and blog contributions
+- **Podcast appearances** on technology and healthcare
+
+---
+
+## Collaboration Opportunities
+
+### Current Funding
+- **CNRS Innovation Prematuration Grant** (150k€, 2025-2026)
+- **Open to joint funding applications** for European and international grants
+
+### Future Opportunities
+- **ERC Starting Grant** application in preparation
+- **Industry partnerships** for technology transfer
+- **International collaborations** for multicultural studies
+
+---
+
+## Response Times
+
+I typically respond to:
+- **Urgent research inquiries**: Within 24 hours
+- **Collaboration proposals**: Within 48 hours
+- **General inquiries**: Within 1 week
+- **Student inquiries**: Within 1 week
+
+For urgent matters, please indicate this in your email subject line.
+
+---
+
+## Location and Availability
+
+**Based in**: Paris, France  
+**Available for travel**: Europe, North America (conferences and collaborations)  
+**Remote collaboration**: Worldwide via video conferencing
+
+### Office Hours (by appointment)
+- **Centre for Complex Systems (ISC-PIF)**: 113 rue Nationale, 75013 Paris
+- **Video meetings**: Available in CET/CEST timezone
+
+---
+
+## Social Media and Online Presence
+
+While I maintain a professional online presence, I prefer direct email contact for research-related inquiries. You can find me on:
+
+- **GitHub**: Active code repositories and project updates
+- **Academic platforms**: Latest publications and research updates
+- **Conference networks**: Presentation slides and research dissemination
+
+---
+
+## Follow My Research
+
+Stay updated on my latest work:
+
+- **Newsletter**: Monthly updates on computational psychiatry research (sign up via email)
+- **Blog posts**: Technical articles on NLP and mental health (coming soon)
+- **Conference presentations**: Slides and recordings available on request
+
+---
+
+*I look forward to hearing from you and exploring potential collaborations in computational psychiatry and natural language processing for mental health.*

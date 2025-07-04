@@ -1,0 +1,188 @@
+---
+title: "Curriculum Vitae"
+description: "Academic and professional experience"
+---
+
+## Robin Quillivic, Ph.D.
+
+**Post-doctoral Researcher**  
+Centre Européen de Sociologie et de Science Politique (CESSP UMR 8209)  
+Resident at Centre for Complex Systems (ISC-PIF, CNRS UAR 3611)  
+Paris, France
+
+**Contact Information**  
+Email: [quillivicrobin@hotmail.fr](mailto:quillivicrobin@hotmail.fr)  
+Phone: +33 7 69 70 64 95  
+ORCID: [0000-0009-9372-0173](https://orcid.org/0000-0009-9372-0173)  
+GitHub: [binbin83](https://github.com/binbin83) | [psycholinguistics2125](https://github.com/psycholinguistics2125)
+
+---
+
+## Professional Summary
+
+I am a post-doctoral researcher developing Clinical Decision Support Systems (CDSS) for PTSD detection through Natural Language Processing. I hold a Ph.D. in Computer Science from EPHE and lead the 150k€ CNRS-funded TALANT project on trauma language analysis.
+
+## Research Interests
+
+Natural Language Processing for mental health • Psycholinguistics • Trauma and PTSD • Formal Thought Disorder • Explainable AI • LLM • Clinical Decision Support System (CDSS) • Digital humanities
+
+---
+
+## Education
+
+**Ph.D. in Computer Science** (2024)  
+École Pratique des Hautes Études (EPHE, PSL)  
+*Thesis*: Construction de profils psycholinguistiques pour le Trouble de Stress Post-Traumatique à l'aide du TALN  
+*Supervisors*: Dr. Salma Mesmoudi, Prof. Jacques Dayan  
+*Defended*: December 20, 2024  
+[Manuscript](https://theses.fr/2024UPSLP082) | [Slides](https://docs.google.com/presentation/d/1Gqe2Ott-h4TNdc6gnR7U5-8WFqxtymScf_EeHsAekgw/edit?usp=sharing)
+
+**Ingénieur Data Scientist** (2019)  
+École Centrale de Lille  
+[Program Information](http://pierrechainais.ec-lille.fr/Centrale/Option_DAD/Accueil.html)
+
+**Classe préparatoire MPSI–MP*** (2013-2015)  
+Lycée Masséna, Nice
+
+---
+
+## Current Position
+
+**Post-doctoral Researcher** (2025-present)  
+Centre Européen de Sociologie et de Science Politique (CESSP UMR 8209) – Paris, France  
+Resident at Centre for Complex Systems (ISC-PIF, CNRS UAR 3611) – Paris, France  
+*Project*: TALANT – Traitement Automatique du LANgage Traumatique
+
+---
+
+## Professional Experience
+
+**Data Scientist** (2020-2021)  
+French Ministry of Health – Paris, France  
+- Built SVM and bi-LSTM classifiers for medical incident reports
+- Deployed Dockerized FastAPI service  
+[Code](https://github.com/etalab-ia/ami-ia-dgs)
+
+**Data Scientist Intern** (2018-2019)  
+DGA-MI (Direction Générale de l'Armement) – Rennes, France  
+- Developed automated information processing pipeline for synthesis report generation
+- Built Topic Modeling, Phrase Extraction, Named Entity Recognition, and sentiment analysis components
+- Delivered functional beta version with complete documentation
+
+**Research Intern** (2018-2019)  
+UbiComp Lab, Georgia Tech – Atlanta, USA  
+- Cross-cultural study of the #MeToo/#BalanceTonPorc movements
+- Publication at INTERACT 2019  
+[Paper](https://inria.hal.science/hal-02544580/document) | [Code](https://github.com/binbin83/metoo_project)
+
+---
+
+## Funding & Awards
+
+**CNRS Innovation Prematuration Grant** (150k€, 2025)  
+Project TALANT, with Prof. F. Gayraud
+
+**Prix solennel de thèse nomination** (2025)  
+Selected by EPHE Doctoral School for nomination to the Chancellerie des Universités de Paris (decision October 2025)
+
+---
+
+## Publications
+
+### Peer-Reviewed Journal Articles
+
+**Quillivic, R.**, Auxéméry, Y., Gayraud, F., Dayan, J., & Mesmoudi, S. (2025). Linguistic markers for identifying post‑traumatic stress disorder and associated symptoms: a systematic literature review. *Journal of the American Medical Informatics Association*. [DOI](https://doi.org/10.1093/jamia/ocaf075) | [Code](https://github.com/psycholinguistics2125/systematic_review)
+
+**Quillivic, R.**, Gayraud, F., Auxéméry, Y., et al. (2024). Interdisciplinary approach to identify language markers for PTSD using machine and deep learning. *Scientific Reports*, 14, 11206. [DOI](https://www.nature.com/articles/s41598-024-61557-7) | [Code](https://github.com/psycholinguistics2125/linguistic_code_of_ptsd)
+
+### Conference Papers and Posters
+
+**Quillivic, R.**, Fradkin, I. (2025, July). *Characterizing the Paradoxical Interplay of Semantic Perseveration and Incoherence in Psychiatry using Theory‑Driven Generative Language Simulations*. **Poster accepted**, Computational Psychiatry Conference (CPC 2025). [Poster](https://docs.google.com/presentation/d/1SXxAujxuF_1e5_BpiA_D4LrQcB1OVbbZZe5zMHw4m2c/edit?usp=sharing)
+
+Boccara, S., Mesmoudi, S., Dayan, J., & **Quillivic, R.** (2024, June). *Quantization of speech disorganization for PTSD and speech disorders detection*. **JADT 2024, LesLa**. [HAL](https://hal.science/hal-04627800) | [Code](https://github.com/NLP-for-Psycholinguistic/text_coherence_pipeline)
+
+**Quillivic, R.**, Payet, C. (2024, June). *Semi‑Structured Interview Analysis: A French NLP Approach for Social Sciences*. **JADT 2024, LesLa**. [HAL](https://hal.science/hal-04627806) | [Code](https://github.com/psycholinguistics2125/ssi-toolbox-fr)
+
+**Quillivic, R.**, Mesmoudi, S. (2023). *La culture du logiciel libre suffit-elle à faire de l'IA un commun ?* **Journées Scientifiques de Rochebrune**, France. [HAL](https://hal.science/hal-04534042v1)
+
+Lopez, I., **Quillivic, R.**, Evans, H., & Arriaga, R.I. (2019). *Denouncing Sexual Violence: A Cross-Language and Cross-Cultural Analysis of #MeToo and #BalanceTonPorc*. **Proceedings of the 17th IFIP Conference on Human-Computer Interaction (INTERACT)**. [Paper](https://inria.hal.science/hal-02544580/document) | [Code](https://github.com/binbin83/metoo_project)
+
+### Preprints and Under Review
+
+Mimault, T.*, **Quillivic, R.***  et al. *A linguistic study of the traumatic discourse used by intimate partner violence perpetrators: a pilot study*. **Under review** at *Journal of Psychiatric Research*. [Code](https://github.com/psycholinguistics2125/violent_men)
+
+**Quillivic, R.**, Dolan, R. J., & Fradkin, I. (2025). *Characterizing the Paradoxical Interplay of Semantic Perseveration and Incoherence in Psychiatry using Theory‑Driven Generative Language Simulations*. **Under review** at *Schizophrenia Bulletin*. [HAL](https://hal.science/hal-05086512) | [Code](https://github.com/psycholinguistics2125/paraphrase_detection)
+
+**Quillivic, R.**, et al. (2024). *Figures of Speech as a Linguistic Marker of Post‑Traumatic Stress Disorder*. [HAL](https://hal.science/hal-05088954)
+
+### Books & Chapters
+
+**Quillivic, R.** (2025). Contributing author, *Psychiatrie & Psychologie du futur*. **Éditions Ellipses**. [Book Info](https://www.editions-ellipses.fr/accueil/16036-psychiatrie-psychologie-du-futur-9782340105959.html)  
+*Presentation at Académie Nationale de Médecine, June 2025*
+
+### Invited Talks
+
+**Quillivic, R.** (2024). *Exploration du lien entre le discours et le TSPT*. **Programme 13-Novembre seminar**, Université Paris 1. [YouTube](https://www.youtube.com/watch?v=l9kvqLFBqNY)
+
+---
+
+## International Collaborations
+
+**Isaac Fradkin** – Hebrew University of Jerusalem  
+Joint poster CPC 2025; co-author; ongoing preprint project
+
+**Telma Mimault** – Université du Québec à Trois-Rivières  
+Co-author on IPV perpetrator study; ongoing preprint project on dissociation markers
+
+**Rosa Arriaga** – Georgia Tech UbiComp Lab  
+Research internship supervisor; INTERACT 2019 publication
+
+---
+
+## Service to the Profession
+
+**Journal Reviewer**  
+- *BJPsych Open* (October 2024)
+- *Annales Médico-Psychologiques* (May 2024)
+
+---
+
+## Industry & Societal Impact
+
+**Scientific Advisor** (2023)  
+**Celeste Technology** – French mental-health chatbot start-up  
+[Website](https://www.celeste-technology.com/)
+
+---
+
+## Technical Skills
+
+**Programming & Data Science**  
+Python (advanced), R, SQL, Machine Learning, Deep Learning, Topic Modeling, Graph Analytics, Explainability
+
+**Frameworks & Tools**  
+TensorFlow, PyTorch, spaCy, Hugging Face, Ollama, FastAPI, Docker, Git
+
+**Languages**  
+French (native), English (TOEIC 910), Spanish (B1)
+
+---
+
+## Teaching & Mentoring
+
+**Student Supervision**  
+Samuel Boccara (2024) – MSc thesis on clinical NLP
+
+**Communication Skills**  
+- Scientific writing: 3 peer-reviewed journal articles; contributing author to academic book
+- Oral presentations: Invited seminar at Université Paris 1; conference papers/posters at INTERACT 2019, JADT 2024, CPC 2025
+
+---
+
+## Download Full CV
+
+[Download CV as PDF](files/robin_quillivic_cv.pdf)
+
+---
+
+*Last updated: July 2025*

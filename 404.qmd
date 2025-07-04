@@ -1,0 +1,22 @@
+---
+title: "Page Not Found"
+description: "404 Error - Page not found"
+---
+
+# 404 - Page Not Found
+
+Sorry, the page you are looking for could not be found.
+
+## What you can do:
+
+- Check the URL for typos
+- Go back to the [homepage](index.qmd)
+- Use the navigation menu above
+- [Contact me](contact.qmd) if you think this is an error
+
+## Popular pages:
+
+- [Publications](publications.qmd)
+- [Research Projects](projects.qmd)
+- [CV](cv.qmd)
+- [Contact](contact.qmd)

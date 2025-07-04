@@ -1,0 +1,82 @@
+---
+title: "Robin Quillivic"
+description: "Post-doctoral researcher in Clinical Decision Support Systems and Natural Language Processing for mental health"
+image: files/images/profile.jpg
+about:
+  template: trestles
+  image-width: 15em
+  image-shape: round
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/binbin83
+    - icon: envelope
+      text: Email
+      href: mailto:quillivicrobin@hotmail.fr
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0009-9372-0173
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      href: https://scholar.google.com/citations?user=your-id
+    - text: "{{< ai hal >}} HAL"
+      href: https://hal.science/search/index/q/*/authFullName_s/Robin+Quillivic
+---
+
+## Welcome
+
+I am a **post-doctoral researcher** at the [Centre Européen de Sociologie et de Science Politique (CESSP)](https://cessp.cnrs.fr/) and resident at the [Centre for Complex Systems (ISC-PIF)](https://iscpif.fr/), where I develop Clinical Decision Support Systems (CDSS) for PTSD detection through Natural Language Processing.
+
+I hold a **Ph.D. in Computer Science** from [École Pratique des Hautes Études (EPHE)](https://www.ephe.psl.eu/) and currently lead the **150k€ CNRS-funded TALANT project** on trauma language analysis.
+
+## Research Interests
+
+My research focuses on applying computational methods to understand and detect mental health conditions through language analysis:
+
+- **Natural Language Processing for Mental Health**: Developing NLP techniques to identify linguistic markers of psychological conditions
+- **Clinical Decision Support Systems (CDSS)**: Creating AI-powered tools to assist healthcare professionals in diagnosis and treatment
+- **Trauma and PTSD Detection**: Analyzing language patterns to identify and understand post-traumatic stress disorder
+- **Psycholinguistics**: Investigating the relationship between language and psychological states
+- **Explainable AI**: Ensuring transparency and interpretability in AI systems for healthcare applications
+
+## Current Position
+
+**Post-doctoral Researcher** (2025-present)  
+Centre Européen de Sociologie et de Science Politique (CESSP UMR 8209) – Paris, France  
+Resident at Centre for Complex Systems (ISC-PIF, CNRS UAR 3611) – Paris, France
+
+### TALANT Project
+I am the Principal Investigator of the **TALANT** (Traitement Automatique du LANgage Traumatique) project, a 150k€ CNRS Innovation Prematuration Grant focused on developing automated tools for trauma language analysis. This interdisciplinary project combines computational linguistics, psychology, and clinical research to advance our understanding of trauma through language.
+
+## Recent Highlights
+
+- **2025**: Awarded 150k€ CNRS Innovation Prematuration Grant for the TALANT project
+- **2024**: Successfully defended Ph.D. thesis on "Construction de profils psycholinguistiques pour le Trouble de Stress Post-Traumatique à l'aide du TALN"
+- **2024**: Published in high-impact journals including *Journal of the American Medical Informatics Association* and *Scientific Reports*
+- **2025**: Accepted poster presentation at Computational Psychiatry Conference (CPC 2025)
+
+## Education
+
+**Ph.D. in Computer Science** (2024)  
+École Pratique des Hautes Études (EPHE, PSL)  
+*Thesis*: Construction de profils psycholinguistiques pour le Trouble de Stress Post-Traumatique à l'aide du TALN  
+*Supervisors*: Dr. Salma Mesmoudi, Prof. Jacques Dayan
+
+**Ingénieur Data Scientist** (2019)  
+École Centrale de Lille
+
+**Classe préparatoire MPSI–MP*** (2013-2015)  
+Lycée Masséna, Nice
+
+## International Collaborations
+
+I actively collaborate with researchers worldwide, including:
+
+- **Isaac Fradkin**, Hebrew University of Jerusalem (ongoing projects on semantic perseveration and incoherence)
+- **Telma Mimault**, Université du Québec à Trois-Rivières (intimate partner violence perpetrator studies)
+- **Rosa Arriaga**, Georgia Tech UbiComp Lab (cross-cultural social media analysis)
+
+## News & Updates
+
+- **March 2025**: Poster accepted at Computational Psychiatry Conference 2025
+- **January 2025**: Started post-doctoral position at CESSP/ISC-PIF
+- **December 2024**: Successfully defended Ph.D. thesis
+- **May 2024**: Paper published in *Journal of the American Medical Informatics Association*
