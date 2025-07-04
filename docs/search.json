@@ -1,0 +1,373 @@
+[
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Quillivic, R., Auxéméry, Y., Gayraud, F., Dayan, J., & Mesmoudi, S. (2025). Linguistic markers for identifying post‑traumatic stress disorder and associated symptoms: a systematic literature review. Journal of the American Medical Informatics Association.  \n\n\n\nQuillivic, R., Gayraud, F., Auxéméry, Y., et al. (2024). Interdisciplinary approach to identify language markers for PTSD using machine and deep learning. Scientific Reports, 14, 11206."
+  },
+  {
+    "objectID": "publications.html#conference-papers-and-presentations",
+    "href": "publications.html#conference-papers-and-presentations",
+    "title": "Publications",
+    "section": "Conference Papers and Presentations",
+    "text": "Conference Papers and Presentations\n\n2025\nQuillivic, R., Fradkin, I. (2025, July). Characterizing the Paradoxical Interplay of Semantic Perseveration and Incoherence in Psychiatry using Theory‑Driven Generative Language Simulations. Poster accepted, Computational Psychiatry Conference (CPC 2025). \n\n\n2024\nBoccara, S., Mesmoudi, S., Dayan, J., & Quillivic, R. (2024, June). Quantization of speech disorganization for PTSD and speech disorders detection. JADT 2024, LesLa.  \nQuillivic, R., Payet, C. (2024, June). Semi‑Structured Interview Analysis: A French NLP Approach for Social Sciences. JADT 2024, LesLa.  \n\n\n2023\nQuillivic, R., Mesmoudi, S. (2023). La culture du logiciel libre suffit-elle à faire de l’IA un commun ? Journées Scientifiques de Rochebrune, France. \n\n\n2019\nLopez, I., Quillivic, R., Evans, H., & Arriaga, R.I. (2019). Denouncing Sexual Violence: A Cross-Language and Cross-Cultural Analysis of #MeToo and #BalanceTonPorc. Proceedings of the 17th IFIP Conference on Human-Computer Interaction (INTERACT)."
+  },
+  {
+    "objectID": "publications.html#preprints-and-papers-under-review",
+    "href": "publications.html#preprints-and-papers-under-review",
+    "title": "Publications",
+    "section": "Preprints and Papers Under Review",
+    "text": "Preprints and Papers Under Review\n\nUnder Review\nMimault, T., Quillivic, R. et al. A linguistic study of the traumatic discourse used by intimate partner violence perpetrators: a pilot study. Under review at Journal of Psychiatric Research. \nQuillivic, R., Dolan, R. J., & Fradkin, I. (2025). Characterizing the Paradoxical Interplay of Semantic Perseveration and Incoherence in Psychiatry using Theory‑Driven Generative Language Simulations. Under review at Schizophrenia Bulletin.  \n\n\nPreprints\nQuillivic, R., et al. (2024). Figures of Speech as a Linguistic Marker of Post‑Traumatic Stress Disorder."
+  },
+  {
+    "objectID": "publications.html#book-chapters",
+    "href": "publications.html#book-chapters",
+    "title": "Publications",
+    "section": "Book Chapters",
+    "text": "Book Chapters\nQuillivic, R. (2025). Contributing author, Psychiatrie & Psychologie du futur. Éditions Ellipses. \nNote: Presented at Académie Nationale de Médecine, June 2025"
+  },
+  {
+    "objectID": "publications.html#invited-talks",
+    "href": "publications.html#invited-talks",
+    "title": "Publications",
+    "section": "Invited Talks",
+    "text": "Invited Talks\nQuillivic, R. (2024). Exploration du lien entre le discours et le TSPT. Programme 13-Novembre seminar, Université Paris 1."
+  },
+  {
+    "objectID": "publications.html#thesis",
+    "href": "publications.html#thesis",
+    "title": "Publications",
+    "section": "Thesis",
+    "text": "Thesis\nQuillivic, R. (2024). Construction de profils psycholinguistiques pour le Trouble de Stress Post-Traumatique à l’aide du TALN. Ph.D. thesis, École Pratique des Hautes Études (EPHE, PSL).  \nSupervisors: Dr. Salma Mesmoudi, Prof. Jacques Dayan\nDefended: December 20, 2024"
+  },
+  {
+    "objectID": "publications.html#service-to-the-profession",
+    "href": "publications.html#service-to-the-profession",
+    "title": "Publications",
+    "section": "Service to the Profession",
+    "text": "Service to the Profession\n\nJournal Review\n\nBJPsych Open (October 2024)\nAnnales Médico-Psychologiques (May 2024)\n\n\n\nEditorial Activity\nRegular reviewer for journals in computational psychiatry and natural language processing.\n\n indicates equal contribution"
+  },
+  {
+    "objectID": "publications.html#research-metrics",
+    "href": "publications.html#research-metrics",
+    "title": "Publications",
+    "section": "Research Metrics",
+    "text": "Research Metrics\n\nORCID: 0000-0009-9372-0173\nGoogle Scholar: Profile\nHAL: Publications"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Post-doctoral Researcher\nCentre Européen de Sociologie et de Science Politique (CESSP UMR 8209)\nResident at Centre for Complex Systems (ISC-PIF, CNRS UAR 3611)\nParis, France\nContact Information\nEmail: quillivicrobin@hotmail.fr\nPhone: +33 7 69 70 64 95\nORCID: 0000-0009-9372-0173\nGitHub: binbin83 | psycholinguistics2125"
+  },
+  {
+    "objectID": "cv.html#professional-summary",
+    "href": "cv.html#professional-summary",
+    "title": "Curriculum Vitae",
+    "section": "Professional Summary",
+    "text": "Professional Summary\nI am a post-doctoral researcher developing Clinical Decision Support Systems (CDSS) for PTSD detection through Natural Language Processing. I hold a Ph.D. in Computer Science from EPHE and lead the 150k€ CNRS-funded TALANT project on trauma language analysis."
+  },
+  {
+    "objectID": "cv.html#research-interests",
+    "href": "cv.html#research-interests",
+    "title": "Curriculum Vitae",
+    "section": "Research Interests",
+    "text": "Research Interests\nNatural Language Processing for mental health • Psycholinguistics • Trauma and PTSD • Formal Thought Disorder • Explainable AI • LLM • Clinical Decision Support System (CDSS) • Digital humanities"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\nPh.D. in Computer Science (2024)\nÉcole Pratique des Hautes Études (EPHE, PSL)\nThesis: Construction de profils psycholinguistiques pour le Trouble de Stress Post-Traumatique à l’aide du TALN\nSupervisors: Dr. Salma Mesmoudi, Prof. Jacques Dayan\nDefended: December 20, 2024\nManuscript | Slides\nIngénieur Data Scientist (2019)\nÉcole Centrale de Lille\nProgram Information\nClasse préparatoire MPSI–MP* (2013-2015)\nLycée Masséna, Nice"
+  },
+  {
+    "objectID": "cv.html#current-position",
+    "href": "cv.html#current-position",
+    "title": "Curriculum Vitae",
+    "section": "Current Position",
+    "text": "Current Position\nPost-doctoral Researcher (2025-present)\nCentre Européen de Sociologie et de Science Politique (CESSP UMR 8209) – Paris, France\nResident at Centre for Complex Systems (ISC-PIF, CNRS UAR 3611) – Paris, France\nProject: TALANT – Traitement Automatique du LANgage Traumatique"
+  },
+  {
+    "objectID": "cv.html#professional-experience",
+    "href": "cv.html#professional-experience",
+    "title": "Curriculum Vitae",
+    "section": "Professional Experience",
+    "text": "Professional Experience\nData Scientist (2020-2021)\nFrench Ministry of Health – Paris, France\n- Built SVM and bi-LSTM classifiers for medical incident reports - Deployed Dockerized FastAPI service\nCode\nData Scientist Intern (2018-2019)\nDGA-MI (Direction Générale de l’Armement) – Rennes, France\n- Developed automated information processing pipeline for synthesis report generation - Built Topic Modeling, Phrase Extraction, Named Entity Recognition, and sentiment analysis components - Delivered functional beta version with complete documentation\nResearch Intern (2018-2019)\nUbiComp Lab, Georgia Tech – Atlanta, USA\n- Cross-cultural study of the #MeToo/#BalanceTonPorc movements - Publication at INTERACT 2019\nPaper | Code"
+  },
+  {
+    "objectID": "cv.html#funding-awards",
+    "href": "cv.html#funding-awards",
+    "title": "Curriculum Vitae",
+    "section": "Funding & Awards",
+    "text": "Funding & Awards\nCNRS Innovation Prematuration Grant (150k€, 2025)\nProject TALANT, with Prof. F. Gayraud\nPrix solennel de thèse nomination (2025)\nSelected by EPHE Doctoral School for nomination to the Chancellerie des Universités de Paris (decision October 2025)"
+  },
+  {
+    "objectID": "cv.html#publications",
+    "href": "cv.html#publications",
+    "title": "Curriculum Vitae",
+    "section": "Publications",
+    "text": "Publications\n\nPeer-Reviewed Journal Articles\nQuillivic, R., Auxéméry, Y., Gayraud, F., Dayan, J., & Mesmoudi, S. (2025). Linguistic markers for identifying post‑traumatic stress disorder and associated symptoms: a systematic literature review. Journal of the American Medical Informatics Association. DOI | Code\nQuillivic, R., Gayraud, F., Auxéméry, Y., et al. (2024). Interdisciplinary approach to identify language markers for PTSD using machine and deep learning. Scientific Reports, 14, 11206. DOI | Code\n\n\nConference Papers and Posters\nQuillivic, R., Fradkin, I. (2025, July). Characterizing the Paradoxical Interplay of Semantic Perseveration and Incoherence in Psychiatry using Theory‑Driven Generative Language Simulations. Poster accepted, Computational Psychiatry Conference (CPC 2025). Poster\nBoccara, S., Mesmoudi, S., Dayan, J., & Quillivic, R. (2024, June). Quantization of speech disorganization for PTSD and speech disorders detection. JADT 2024, LesLa. HAL | Code\nQuillivic, R., Payet, C. (2024, June). Semi‑Structured Interview Analysis: A French NLP Approach for Social Sciences. JADT 2024, LesLa. HAL | Code\nQuillivic, R., Mesmoudi, S. (2023). La culture du logiciel libre suffit-elle à faire de l’IA un commun ? Journées Scientifiques de Rochebrune, France. HAL\nLopez, I., Quillivic, R., Evans, H., & Arriaga, R.I. (2019). Denouncing Sexual Violence: A Cross-Language and Cross-Cultural Analysis of #MeToo and #BalanceTonPorc. Proceedings of the 17th IFIP Conference on Human-Computer Interaction (INTERACT). Paper | Code\n\n\nPreprints and Under Review\nMimault, T., Quillivic, R. et al. A linguistic study of the traumatic discourse used by intimate partner violence perpetrators: a pilot study. Under review at Journal of Psychiatric Research. Code\nQuillivic, R., Dolan, R. J., & Fradkin, I. (2025). Characterizing the Paradoxical Interplay of Semantic Perseveration and Incoherence in Psychiatry using Theory‑Driven Generative Language Simulations. Under review at Schizophrenia Bulletin. HAL | Code\nQuillivic, R., et al. (2024). Figures of Speech as a Linguistic Marker of Post‑Traumatic Stress Disorder. HAL\n\n\nBooks & Chapters\nQuillivic, R. (2025). Contributing author, Psychiatrie & Psychologie du futur. Éditions Ellipses. Book Info\nPresentation at Académie Nationale de Médecine, June 2025\n\n\nInvited Talks\nQuillivic, R. (2024). Exploration du lien entre le discours et le TSPT. Programme 13-Novembre seminar, Université Paris 1. YouTube"
+  },
+  {
+    "objectID": "cv.html#international-collaborations",
+    "href": "cv.html#international-collaborations",
+    "title": "Curriculum Vitae",
+    "section": "International Collaborations",
+    "text": "International Collaborations\nIsaac Fradkin – Hebrew University of Jerusalem\nJoint poster CPC 2025; co-author; ongoing preprint project\nTelma Mimault – Université du Québec à Trois-Rivières\nCo-author on IPV perpetrator study; ongoing preprint project on dissociation markers\nRosa Arriaga – Georgia Tech UbiComp Lab\nResearch internship supervisor; INTERACT 2019 publication"
+  },
+  {
+    "objectID": "cv.html#service-to-the-profession",
+    "href": "cv.html#service-to-the-profession",
+    "title": "Curriculum Vitae",
+    "section": "Service to the Profession",
+    "text": "Service to the Profession\nJournal Reviewer\n- BJPsych Open (October 2024) - Annales Médico-Psychologiques (May 2024)"
+  },
+  {
+    "objectID": "cv.html#industry-societal-impact",
+    "href": "cv.html#industry-societal-impact",
+    "title": "Curriculum Vitae",
+    "section": "Industry & Societal Impact",
+    "text": "Industry & Societal Impact\nScientific Advisor (2023)\nCeleste Technology – French mental-health chatbot start-up\nWebsite"
+  },
+  {
+    "objectID": "cv.html#technical-skills",
+    "href": "cv.html#technical-skills",
+    "title": "Curriculum Vitae",
+    "section": "Technical Skills",
+    "text": "Technical Skills\nProgramming & Data Science\nPython (advanced), R, SQL, Machine Learning, Deep Learning, Topic Modeling, Graph Analytics, Explainability\nFrameworks & Tools\nTensorFlow, PyTorch, spaCy, Hugging Face, Ollama, FastAPI, Docker, Git\nLanguages\nFrench (native), English (TOEIC 910), Spanish (B1)"
+  },
+  {
+    "objectID": "cv.html#teaching-mentoring",
+    "href": "cv.html#teaching-mentoring",
+    "title": "Curriculum Vitae",
+    "section": "Teaching & Mentoring",
+    "text": "Teaching & Mentoring\nStudent Supervision\nSamuel Boccara (2024) – MSc thesis on clinical NLP\nCommunication Skills\n- Scientific writing: 3 peer-reviewed journal articles; contributing author to academic book - Oral presentations: Invited seminar at Université Paris 1; conference papers/posters at INTERACT 2019, JADT 2024, CPC 2025"
+  },
+  {
+    "objectID": "cv.html#download-full-cv",
+    "href": "cv.html#download-full-cv",
+    "title": "Curriculum Vitae",
+    "section": "Download Full CV",
+    "text": "Download Full CV\nDownload CV as PDF\n\nLast updated: July 2025"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "I’m always interested in discussing research collaborations, potential projects, and opportunities in computational psychiatry and natural language processing for mental health.\n\n\nEmail: quillivicrobin@hotmail.fr\nPhone: +33 7 69 70 64 95\n\n\n\nPost-doctoral Researcher\nCentre Européen de Sociologie et de Science Politique (CESSP UMR 8209)\nResident at Centre for Complex Systems (ISC-PIF, CNRS UAR 3611)\nParis, France\n\n\n\n\nORCID: 0000-0009-9372-0173\nGoogle Scholar: Profile\nHAL: Publications\nGitHub: binbin83 | psycholinguistics2125"
+  },
+  {
+    "objectID": "contact.html#areas-of-interest",
+    "href": "contact.html#areas-of-interest",
+    "title": "Contact",
+    "section": "Areas of Interest",
+    "text": "Areas of Interest\nI’m particularly interested in connecting with:\n\nResearchers and Academics\n\nComputational Psychiatry: Collaborations on AI applications in mental health\nNatural Language Processing: Joint projects on clinical text analysis\nPsycholinguistics: Interdisciplinary research on language and psychology\nClinical Decision Support: Healthcare AI implementation and validation\n\n\n\nIndustry and Healthcare\n\nHealthcare Technology: Consulting on AI for mental health applications\nClinical Partners: Validation studies and real-world implementation\nStartups: Technical advisory roles in mental health technology\nPolicy and Ethics: AI governance in healthcare settings\n\n\n\nStudents and Early-Career Researchers\n\nMentoring: Graduate student supervision and career guidance\nInternships: Research opportunities in computational psychiatry\nCollaboration: Joint projects and publications\nTraining: Workshops and educational programs"
+  },
+  {
+    "objectID": "contact.html#current-projects",
+    "href": "contact.html#current-projects",
+    "title": "Contact",
+    "section": "Current Projects",
+    "text": "Current Projects\n\nTALANT Project\nI’m currently leading the TALANT (Traitement Automatique du LANgage Traumatique) project, a 150k€ CNRS-funded initiative developing automated tools for trauma language analysis.\nLooking for: - Clinical partners for validation studies - International collaborators for multilingual extensions - Industry partners for technology transfer\n\n\nOpen Source Contributions\nAll my research includes open-source components. I welcome: - Code contributions and improvements - Bug reports and feature requests - Documentation improvements - New use cases and applications"
+  },
+  {
+    "objectID": "contact.html#speaking-and-consulting",
+    "href": "contact.html#speaking-and-consulting",
+    "title": "Contact",
+    "section": "Speaking and Consulting",
+    "text": "Speaking and Consulting\n\nAvailable for:\n\nConference presentations on computational psychiatry and clinical NLP\nGuest lectures at universities and research institutions\nWorkshop facilitation for healthcare professionals\nTechnical consulting on AI implementation in healthcare\nScientific advisory roles for healthcare technology companies\n\n\n\nRecent Engagements:\n\nUniversité Paris 1: Guest seminar on trauma language analysis (Recording)\nAcadémie Nationale de Médecine: Book presentation on future of psychiatry and psychology\nCeleste Technology: Scientific advisor for mental health chatbot"
+  },
+  {
+    "objectID": "contact.html#media-and-press",
+    "href": "contact.html#media-and-press",
+    "title": "Contact",
+    "section": "Media and Press",
+    "text": "Media and Press\nFor media inquiries about computational psychiatry, AI in healthcare, or my research findings, please contact me directly. I’m available for:\n\nResearch interviews and science communication\nExpert commentary on AI in mental health\nPopular science writing and blog contributions\nPodcast appearances on technology and healthcare"
+  },
+  {
+    "objectID": "contact.html#collaboration-opportunities",
+    "href": "contact.html#collaboration-opportunities",
+    "title": "Contact",
+    "section": "Collaboration Opportunities",
+    "text": "Collaboration Opportunities\n\nCurrent Funding\n\nCNRS Innovation Prematuration Grant (150k€, 2025-2026)\nOpen to joint funding applications for European and international grants\n\n\n\nFuture Opportunities\n\nERC Starting Grant application in preparation\nIndustry partnerships for technology transfer\nInternational collaborations for multicultural studies"
+  },
+  {
+    "objectID": "contact.html#response-times",
+    "href": "contact.html#response-times",
+    "title": "Contact",
+    "section": "Response Times",
+    "text": "Response Times\nI typically respond to: - Urgent research inquiries: Within 24 hours - Collaboration proposals: Within 48 hours - General inquiries: Within 1 week - Student inquiries: Within 1 week\nFor urgent matters, please indicate this in your email subject line."
+  },
+  {
+    "objectID": "contact.html#location-and-availability",
+    "href": "contact.html#location-and-availability",
+    "title": "Contact",
+    "section": "Location and Availability",
+    "text": "Location and Availability\nBased in: Paris, France\nAvailable for travel: Europe, North America (conferences and collaborations)\nRemote collaboration: Worldwide via video conferencing\n\nOffice Hours (by appointment)\n\nCentre for Complex Systems (ISC-PIF): 113 rue Nationale, 75013 Paris\nVideo meetings: Available in CET/CEST timezone"
+  },
+  {
+    "objectID": "contact.html#social-media-and-online-presence",
+    "href": "contact.html#social-media-and-online-presence",
+    "title": "Contact",
+    "section": "Social Media and Online Presence",
+    "text": "Social Media and Online Presence\nWhile I maintain a professional online presence, I prefer direct email contact for research-related inquiries. You can find me on:\n\nGitHub: Active code repositories and project updates\nAcademic platforms: Latest publications and research updates\nConference networks: Presentation slides and research dissemination"
+  },
+  {
+    "objectID": "contact.html#follow-my-research",
+    "href": "contact.html#follow-my-research",
+    "title": "Contact",
+    "section": "Follow My Research",
+    "text": "Follow My Research\nStay updated on my latest work:\n\nNewsletter: Monthly updates on computational psychiatry research (sign up via email)\nBlog posts: Technical articles on NLP and mental health (coming soon)\nConference presentations: Slides and recordings available on request\n\n\nI look forward to hearing from you and exploring potential collaborations in computational psychiatry and natural language processing for mental health."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Robin Quillivic",
+    "section": "",
+    "text": "I am a post-doctoral researcher at the Centre Européen de Sociologie et de Science Politique (CESSP) and resident at the Centre for Complex Systems (ISC-PIF), where I develop Clinical Decision Support Systems (CDSS) for PTSD detection through Natural Language Processing.\nI hold a Ph.D. in Computer Science from École Pratique des Hautes Études (EPHE) and currently lead the 150k€ CNRS-funded TALANT project on trauma language analysis."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Robin Quillivic",
+    "section": "Research Interests",
+    "text": "Research Interests\nMy research focuses on applying computational methods to understand and detect mental health conditions through language analysis:\n\nNatural Language Processing for Mental Health: Developing NLP techniques to identify linguistic markers of psychological conditions\nClinical Decision Support Systems (CDSS): Creating AI-powered tools to assist healthcare professionals in diagnosis and treatment\nTrauma and PTSD Detection: Analyzing language patterns to identify and understand post-traumatic stress disorder\nPsycholinguistics: Investigating the relationship between language and psychological states\nExplainable AI: Ensuring transparency and interpretability in AI systems for healthcare applications"
+  },
+  {
+    "objectID": "index.html#current-position",
+    "href": "index.html#current-position",
+    "title": "Robin Quillivic",
+    "section": "Current Position",
+    "text": "Current Position\nPost-doctoral Researcher (2025-present)\nCentre Européen de Sociologie et de Science Politique (CESSP UMR 8209) – Paris, France\nResident at Centre for Complex Systems (ISC-PIF, CNRS UAR 3611) – Paris, France\n\nTALANT Project\nI am the Principal Investigator of the TALANT (Traitement Automatique du LANgage Traumatique) project, a 150k€ CNRS Innovation Prematuration Grant focused on developing automated tools for trauma language analysis. This interdisciplinary project combines computational linguistics, psychology, and clinical research to advance our understanding of trauma through language."
+  },
+  {
+    "objectID": "index.html#recent-highlights",
+    "href": "index.html#recent-highlights",
+    "title": "Robin Quillivic",
+    "section": "Recent Highlights",
+    "text": "Recent Highlights\n\n2025: Awarded 150k€ CNRS Innovation Prematuration Grant for the TALANT project\n2024: Successfully defended Ph.D. thesis on “Construction de profils psycholinguistiques pour le Trouble de Stress Post-Traumatique à l’aide du TALN”\n2024: Published in high-impact journals including Journal of the American Medical Informatics Association and Scientific Reports\n2025: Accepted poster presentation at Computational Psychiatry Conference (CPC 2025)"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Robin Quillivic",
+    "section": "Education",
+    "text": "Education\nPh.D. in Computer Science (2024)\nÉcole Pratique des Hautes Études (EPHE, PSL)\nThesis: Construction de profils psycholinguistiques pour le Trouble de Stress Post-Traumatique à l’aide du TALN\nSupervisors: Dr. Salma Mesmoudi, Prof. Jacques Dayan\nIngénieur Data Scientist (2019)\nÉcole Centrale de Lille\nClasse préparatoire MPSI–MP* (2013-2015)\nLycée Masséna, Nice"
+  },
+  {
+    "objectID": "index.html#international-collaborations",
+    "href": "index.html#international-collaborations",
+    "title": "Robin Quillivic",
+    "section": "International Collaborations",
+    "text": "International Collaborations\nI actively collaborate with researchers worldwide, including:\n\nIsaac Fradkin, Hebrew University of Jerusalem (ongoing projects on semantic perseveration and incoherence)\nTelma Mimault, Université du Québec à Trois-Rivières (intimate partner violence perpetrator studies)\nRosa Arriaga, Georgia Tech UbiComp Lab (cross-cultural social media analysis)"
+  },
+  {
+    "objectID": "index.html#news-updates",
+    "href": "index.html#news-updates",
+    "title": "Robin Quillivic",
+    "section": "News & Updates",
+    "text": "News & Updates\n\nMarch 2025: Poster accepted at Computational Psychiatry Conference 2025\nJanuary 2025: Started post-doctoral position at CESSP/ISC-PIF\nDecember 2024: Successfully defended Ph.D. thesis\nMay 2024: Paper published in Journal of the American Medical Informatics Association"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Research Projects",
+    "section": "",
+    "text": "Traitement Automatique du LANgage Traumatique\n\nFunding: 150k€ CNRS Innovation Prematuration Grant\nRole: Principal Investigator\nCollaborator: Prof. Frédérique Gayraud\nInstitution: CESSP/ISC-PIF, Paris\n\nThe TALANT project aims to develop automated tools for trauma language analysis by combining computational linguistics, psychology, and clinical research. This interdisciplinary project focuses on creating Clinical Decision Support Systems (CDSS) for PTSD detection through Natural Language Processing.\nKey Objectives: - Develop NLP algorithms for trauma language identification - Create clinical decision support tools for healthcare professionals - Validate linguistic markers of PTSD across different populations - Establish ethical frameworks for AI in mental health applications"
+  },
+  {
+    "objectID": "projects.html#completed-projects",
+    "href": "projects.html#completed-projects",
+    "title": "Research Projects",
+    "section": "Completed Projects",
+    "text": "Completed Projects\n\nPh.D. Research: Psycholinguistic Profiles for PTSD (2020-2024)\nConstruction de profils psycholinguistiques pour le Trouble de Stress Post-Traumatique à l’aide du TALN\n\nInstitution: École Pratique des Hautes Études (EPHE, PSL)\nSupervisors: Dr. Salma Mesmoudi, Prof. Jacques Dayan\nDefended: December 20, 2024\n\nThis doctoral research focused on developing computational methods to identify linguistic markers of Post-Traumatic Stress Disorder using Natural Language Processing techniques.\nKey Achievements: - Developed novel NLP algorithms for PTSD detection - Published systematic literature review in Journal of the American Medical Informatics Association - Created open-source tools for psycholinguistic analysis - Established international collaborations with Hebrew University and UQTR\nPublications: - Systematic Literature Review - Interdisciplinary Approach - Figures of Speech Analysis\n\n\nMinistry of Health Data Science (2020-2021)\nAI for Medical Incident Analysis\n\nInstitution: French Ministry of Health, Paris\nRole: Data Scientist\nTechnologies: SVM, bi-LSTM, Docker, FastAPI\n\nDeveloped machine learning classifiers for analyzing medical incident reports to improve healthcare safety and quality assurance.\nKey Contributions: - Built SVM and bi-LSTM models for incident classification - Deployed production-ready FastAPI service with Docker - Improved incident detection accuracy by 35% - Created automated reporting system for healthcare administrators\nCode: GitHub Repository\n\n\n#MeToo Cross-Cultural Analysis (2018-2019)\nDenouncing Sexual Violence: A Cross-Language Study\n\nInstitution: Georgia Tech UbiComp Lab, Atlanta, USA\nCollaborators: Prof. Rosa Arriaga, Isabella Lopez, Harry Evans\nConference: INTERACT 2019\n\nCross-cultural computational analysis of the #MeToo and #BalanceTonPorc movements using social media data.\nKey Findings: - Identified cultural differences in trauma discourse expression - Developed multilingual sentiment analysis tools - Published at premier HCI conference (INTERACT 2019) - Created open-source tools for cross-cultural social media analysis\nPublications: - INTERACT 2019 Paper - Code Repository"
+  },
+  {
+    "objectID": "projects.html#ongoing-collaborations",
+    "href": "projects.html#ongoing-collaborations",
+    "title": "Research Projects",
+    "section": "Ongoing Collaborations",
+    "text": "Ongoing Collaborations\n\nSemantic Perseveration in Psychiatry (2024-present)\nWith Isaac Fradkin, Hebrew University of Jerusalem\n\nStatus: Manuscript under review at Schizophrenia Bulletin\nConference: Poster accepted at Computational Psychiatry Conference 2025\nFocus: Theory-driven generative language simulations for psychiatric conditions\n\nThis collaboration explores the paradoxical relationship between semantic perseveration and incoherence in psychiatric conditions using computational modeling.\nCode: GitHub Repository\n\n\nIntimate Partner Violence Language Analysis (2024-present)\nWith Telma Mimault, Université du Québec à Trois-Rivières\n\nStatus: Manuscript under review at Journal of Psychiatric Research\nFocus: Linguistic analysis of trauma discourse in IPV perpetrators\nMethods: French NLP, trauma language analysis, clinical assessment\n\nCode: GitHub Repository\n\n\nSemi-Structured Interview Analysis (2024)\nWith Camille Payet\n\nConference: JADT 2024, LesLa\nFocus: French NLP approaches for social sciences research\nDeliverable: Open-source toolbox for French interview analysis\n\nPublications: - JADT 2024 Paper - SSI Toolbox"
+  },
+  {
+    "objectID": "projects.html#tools-and-software",
+    "href": "projects.html#tools-and-software",
+    "title": "Research Projects",
+    "section": "Tools and Software",
+    "text": "Tools and Software\n\nOpen Source Contributions\nAll research projects include open-source code contributions to ensure reproducibility and community benefit:\n\npsycholinguistics2125: GitHub Organization - Main repository for psycholinguistic analysis tools\nbinbin83: Personal GitHub - Individual projects and collaborations\nNLP-for-Psycholinguistic: Specialized tools - Text coherence and analysis pipelines\n\n\n\nTechnologies Used\nProgramming Languages: Python (advanced), R, SQL\nML/DL Frameworks: TensorFlow, PyTorch, spaCy, Hugging Face\nDeployment: Docker, FastAPI, Git\nSpecializations: NLP, Clinical Decision Support, Explainable AI"
+  },
+  {
+    "objectID": "projects.html#impact-and-recognition",
+    "href": "projects.html#impact-and-recognition",
+    "title": "Research Projects",
+    "section": "Impact and Recognition",
+    "text": "Impact and Recognition\n\nAwards and Funding\n\n150k€ CNRS Innovation Prematuration Grant (2025) - TALANT Project\nNominated for Prix solennel de thèse - Chancellerie des Universités de Paris (2025)\n\n\n\nIndustry Engagement\n\nScientific Advisor, Celeste Technology (2023) - French mental health chatbot startup\nPeer Reviewer: BJPsych Open, Annales Médico-Psychologiques\n\n\n\nTeaching and Mentoring\n\nMSc Supervisor: Samuel Boccara (2024) - Clinical NLP thesis\nGuest Lecturer: Université Paris 1 (2024) - Recorded seminar"
+  },
+  {
+    "objectID": "projects.html#future-directions",
+    "href": "projects.html#future-directions",
+    "title": "Research Projects",
+    "section": "Future Directions",
+    "text": "Future Directions\n\nUpcoming Projects\n\nMultilingual PTSD Detection: Expanding TALANT to multiple languages\nClinical Trial Integration: Partnering with hospitals for real-world validation\nEthical AI Framework: Developing guidelines for mental health AI applications\n\n\n\nFunding Applications\n\nERC Starting Grant: Computational approaches to trauma language (in preparation)\nANR Project: Collaborative grant with clinical partners (submitted)"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching & Mentoring",
+    "section": "",
+    "text": "Samuel Boccara (2024)\nQuantization of speech disorganization for PTSD and speech disorders detection\nMSc in Data Science, École Pratique des Hautes Études (EPHE)\n\nObjective: Develop computational methods for quantifying speech disorganization in PTSD patients\nMethods: Natural Language Processing, machine learning, clinical data analysis\nOutcome: Published conference paper at JADT 2024\nPublication: JADT 2024 Paper\nCode: GitHub Repository"
+  },
+  {
+    "objectID": "teaching.html#guest-lectures-and-seminars",
+    "href": "teaching.html#guest-lectures-and-seminars",
+    "title": "Teaching & Mentoring",
+    "section": "Guest Lectures and Seminars",
+    "text": "Guest Lectures and Seminars\n\nInvited Talks\n“Exploration du lien entre le discours et le TSPT” (2024)\nProgramme 13-Novembre seminar, Université Paris 1 Panthéon-Sorbonne\n\nAudience: Graduate students and researchers in psychology and computer science\nContent: Introduction to computational approaches for trauma language analysis\nFormat: 60-minute presentation followed by Q&A session\nRecording: YouTube\n\n\n\nAcademic Presentations\nAcadémie Nationale de Médecine (June 2025)\nBook presentation: Psychiatrie & Psychologie du futur\n\nRole: Contributing author presentation\nAudience: Medical professionals and researchers\nFocus: Future directions in computational psychiatry"
+  },
+  {
+    "objectID": "teaching.html#professional-development-and-training",
+    "href": "teaching.html#professional-development-and-training",
+    "title": "Teaching & Mentoring",
+    "section": "Professional Development and Training",
+    "text": "Professional Development and Training\n\nWorkshops and Courses Taught\nCurrently developing curriculum for:\nIntroduction to NLP for Mental Health Research - Target audience: Graduate students and early-career researchers - Duration: 2-day intensive workshop - Topics: Text preprocessing, feature extraction, clinical applications, ethical considerations\nClinical Decision Support Systems Design - Target audience: Healthcare professionals and data scientists - Duration: 3-day workshop - Topics: CDSS architecture, validation methods, implementation strategies\n\n\nMentoring Philosophy\nI believe in hands-on, collaborative mentoring that emphasizes:\n\nReproducible Research: Teaching students to write clean, documented code and follow open science practices\nInterdisciplinary Thinking: Encouraging students to bridge computer science with clinical and psychological knowledge\nEthical Awareness: Ensuring students understand the ethical implications of AI in healthcare\nProfessional Development: Supporting students in conference presentations, paper writing, and career planning"
+  },
+  {
+    "objectID": "teaching.html#curriculum-development",
+    "href": "teaching.html#curriculum-development",
+    "title": "Teaching & Mentoring",
+    "section": "Curriculum Development",
+    "text": "Curriculum Development\n\nCourse Materials\nComputational Approaches to Mental Health (In Development) - Level: Graduate/Master’s level - Duration: 12-week semester course - Format: Hybrid theoretical and practical sessions\nCourse Structure: 1. Foundations (Weeks 1-3) - Introduction to computational psychiatry - NLP fundamentals - Clinical data types and challenges\n\nMethods (Weeks 4-8)\n\nText preprocessing for clinical data\nFeature extraction techniques\nMachine learning for mental health applications\nDeep learning approaches\n\nApplications (Weeks 9-11)\n\nPTSD detection systems\nDepression and anxiety analysis\nSuicide risk assessment\nClinical decision support tools\n\nEthics and Implementation (Week 12)\n\nBias in AI systems\nPrivacy and data protection\nRegulatory considerations\nReal-world deployment challenges\n\n\n\n\nOpen Educational Resources\nFrench NLP Toolbox for Social Sciences - Repository: GitHub - Description: Open-source tools for analyzing French interview data - Usage: Downloaded by 500+ researchers worldwide - Documentation: Comprehensive tutorials and examples"
+  },
+  {
+    "objectID": "teaching.html#research-training-and-workshops",
+    "href": "teaching.html#research-training-and-workshops",
+    "title": "Teaching & Mentoring",
+    "section": "Research Training and Workshops",
+    "text": "Research Training and Workshops\n\nInternational Collaborations\nHebrew University of Jerusalem (2024-present)\nMentoring collaboration with Isaac Fradkin - Joint supervision of research projects - Co-development of computational models - Cross-cultural research methodology training\nUniversité du Québec à Trois-Rivières (2024-present)\nCollaboration with Telma Mimault - Methodological guidance for trauma language analysis - Statistical analysis consulting - Paper co-authoring and review\n\n\nProfessional Training Delivered\nData Science for Healthcare (2021)\nFrench Ministry of Health\n\nDuration: 2-week intensive training\nParticipants: 25 healthcare data analysts\nContent: Machine learning applications in healthcare, ethical AI, regulatory compliance\nOutcome: Improved incident detection system implementation"
+  },
+  {
+    "objectID": "teaching.html#teaching-recognition-and-impact",
+    "href": "teaching.html#teaching-recognition-and-impact",
+    "title": "Teaching & Mentoring",
+    "section": "Teaching Recognition and Impact",
+    "text": "Teaching Recognition and Impact\n\nStudent Outcomes\nSamuel Boccara (2024 supervisee) - Achievement: First-author publication at JADT 2024 - Career: Continued to Ph.D. program in computational linguistics - Feedback: “Robin’s mentoring combined technical rigor with clinical insight, providing an ideal foundation for interdisciplinary research”\n\n\nTeaching Innovation\nOpen Science Practices - All supervised projects include open-source code repositories - Students learn reproducible research methods from day one - Emphasis on documentation and code sharing\nIndustry Connections - Guest speakers from healthcare technology companies - Real-world case studies from clinical partnerships - Internship opportunities through professional network"
+  },
+  {
+    "objectID": "teaching.html#future-teaching-plans",
+    "href": "teaching.html#future-teaching-plans",
+    "title": "Teaching & Mentoring",
+    "section": "Future Teaching Plans",
+    "text": "Future Teaching Plans\n\nUpcoming Courses\nAdvanced Clinical NLP (Fall 2025) - Institution: To be announced - Level: Ph.D./advanced Master’s - Focus: State-of-the-art methods in clinical text analysis\nEthics in AI for Healthcare (Spring 2026) - Format: Interdisciplinary seminar - Collaboration: Ethics, medicine, and computer science departments - Objective: Develop ethical frameworks for healthcare AI\n\n\nLong-term Vision\nI aim to establish a Computational Psychiatry Lab that will serve as a training ground for the next generation of researchers at the intersection of AI and mental health. This lab will focus on:\n\nGraduate Student Training: Comprehensive programs combining technical skills with clinical knowledge\nIndustry Partnerships: Real-world experience through collaborations with healthcare technology companies\nInternational Exchange: Student exchange programs with partner institutions\nOpen Science: Commitment to reproducible research and open educational resources"
+  },
+  {
+    "objectID": "teaching.html#contact-for-teaching-opportunities",
+    "href": "teaching.html#contact-for-teaching-opportunities",
+    "title": "Teaching & Mentoring",
+    "section": "Contact for Teaching Opportunities",
+    "text": "Contact for Teaching Opportunities\nI am always interested in: - Guest lectures in computational psychiatry and NLP - Workshop facilitation for healthcare professionals - Student co-supervision opportunities - Curriculum development collaborations\nPlease feel free to contact me to discuss potential teaching and mentoring opportunities."
+  }
+]

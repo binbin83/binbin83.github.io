@@ -1,0 +1,166 @@
+/* Additional custom styles for the academic website */
+
+/* Icon spacing */
+.fab, .fas, .far {
+  margin-right: 0.5rem;
+}
+
+/* Academic icons */
+.ai {
+  margin-right: 0.5rem;
+}
+
+/* Button styles */
+.btn-outline-primary {
+  border-color: #2563eb;
+  color: #2563eb;
+}
+
+.btn-outline-primary:hover {
+  background-color: #2563eb;
+  border-color: #2563eb;
+  color: white;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Focus styles for accessibility */
+a:focus,
+button:focus {
+  outline: 2px solid #2563eb;
+  outline-offset: 2px;
+}
+
+/* Image styles */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Profile image on about page */
+.about-contents img {
+  border: 3px solid #e2e8f0;
+  transition: border-color 0.2s ease;
+}
+
+.about-contents img:hover {
+  border-color: #2563eb;
+}
+
+/* List styles */
+ul, ol {
+  padding-left: 1.5rem;
+}
+
+li {
+  margin-bottom: 0.5rem;
+}
+
+/* Highlight current page in navigation */
+.navbar-nav .nav-link.active {
+  font-weight: 600;
+  color: #2563eb !important;
+}
+
+/* Custom spacing */
+.mt-custom {
+  margin-top: 2rem;
+}
+
+.mb-custom {
+  margin-bottom: 2rem;
+}
+
+/* Status badges */
+.status-badge {
+  display: inline-block;
+  padding: 0.25rem 0.5rem;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  border-radius: 0.25rem;
+  margin-left: 0.5rem;
+}
+
+.status-badge.published {
+  background-color: #10b981;
+  color: white;
+}
+
+.status-badge.under-review {
+  background-color: #f59e0b;
+  color: white;
+}
+
+.status-badge.preprint {
+  background-color: #6366f1;
+  color: white;
+}
+
+/* Animation for hover effects */
+.hover-scale {
+  transition: transform 0.2s ease;
+}
+
+.hover-scale:hover {
+  transform: scale(1.02);
+}
+
+/* External link icon */
+.external-link::after {
+  content: " ↗";
+  font-size: 0.8em;
+  opacity: 0.6;
+}
+
+/* Print optimizations */
+@media print {
+  .btn, .navbar, .page-footer {
+    display: none !important;
+  }
+
+  body {
+    font-size: 12pt;
+    line-height: 1.4;
+  }
+
+  h1, h2, h3 {
+    break-after: avoid;
+  }
+
+  p, li {
+    break-inside: avoid;
+  }
+}
+
+/* Dark mode support (if enabled) */
+@media (prefers-color-scheme: dark) {
+  /* This would be expanded if dark mode is implemented */
+}
+
+/* High contrast mode support */
+@media (prefers-contrast: high) {
+  * {
+    border-color: #000 !important;
+  }
+
+  a {
+    text-decoration: underline !important;
+  }
+}
+
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  html {
+    scroll-behavior: auto;
+  }
+}
