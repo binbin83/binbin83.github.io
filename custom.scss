@@ -1,95 +1,366 @@
 /*-- scss:defaults --*/
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
 
-$font-family-sans-serif: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-$font-family-monospace: 'SF Mono', Monaco, 'Cascadia Code', 'Roboto Mono', Consolas, 'Courier New', monospace;
+// === Typography ===
+$font-family-sans-serif: 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+$font-family-monospace: 'JetBrains Mono', 'SF Mono', Monaco, Consolas, monospace;
 
-// Color palette
-$primary: #2563eb;
-$secondary: #64748b;
-$success: #10b981;
-$info: #0ea5e9;
-$warning: #f59e0b;
-$danger: #ef4444;
-$light: #f8fafc;
-$dark: #1e293b;
+// === Color Palette — Warm scholarly tones ===
+$ink: #1a1a2e;              // Deep navy-black for text
+$parchment: #faf8f5;        // Warm off-white background
+$warm-gray: #6b6577;        // Muted text
+$accent: #b08d57;           // Warm gold accent
+$accent-hover: #957542;     // Darker gold on hover
+$rule: #e8e4de;             // Subtle warm dividers
+$card-bg: #ffffff;
+$highlight: #f5f0e8;        // Warm highlight background
 
-// Custom colors
-$accent-blue: #3b82f6;
-$accent-indigo: #6366f1;
-$text-muted: #64748b;
-$border-color: #e2e8f0;
+// Bootstrap overrides
+$primary: $accent;
+$secondary: $warm-gray;
+$light: $parchment;
+$dark: $ink;
+$body-bg: $parchment;
+$body-color: $ink;
+$link-color: $accent;
+$link-hover-color: $accent-hover;
+$border-color: $rule;
 
 /*-- scss:rules --*/
 
-// Typography
+// === Layout — wider body content ===
+@media (min-width: 992px) {
+  body .page-columns {
+    grid-template-columns:
+      [screen-start] 1.5em
+      [screen-start-inset] 2fr
+      [page-start page-start-inset] 35px
+      [body-start-outset] 35px
+      [body-start] 1.5em
+      [body-content-start] minmax(500px, calc(1100px - 3em))
+      [body-content-end] 1.5em
+      [body-end] 35px
+      [body-end-outset] minmax(75px, 145px)
+      [page-end-inset] 35px
+      [page-end] 2fr
+      [screen-end-inset] 1.5em
+      [screen-end] !important;
+  }
+}
+
+// Trestles about: span full page width & stay horizontal until 576px
+div.quarto-about-trestles {
+  grid-column: page-start / page-end !important;
+
+  // Stay side-by-side on tablets
+  @media (min-width: 576px) and (max-width: 991.98px) {
+    flex-direction: row !important;
+    padding-top: 2em !important;
+  }
+
+  .about-entity {
+    @media (min-width: 576px) and (max-width: 991.98px) {
+      flex: 0 0 auto !important;
+      max-width: 14em;
+    }
+
+    .about-links {
+      @media (min-width: 576px) and (max-width: 991.98px) {
+        flex-direction: row !important;
+        flex-wrap: wrap;
+        column-gap: 0.5em;
+        row-gap: 0.5em;
+      }
+    }
+  }
+}
+
+// Medium screens: hide TOC to give more room
+@media (max-width: 991.98px) {
+  #quarto-margin-sidebar {
+    display: none !important;
+  }
+}
+
+// === Base Typography ===
+body {
+  font-size: 1rem;
+  line-height: 1.75;
+  color: $ink;
+  background-color: $parchment;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+// Headings use elegant serif
 h1, h2, h3, h4, h5, h6 {
+  font-family: 'Cormorant Garamond', Georgia, 'Times New Roman', serif;
   font-weight: 600;
   line-height: 1.2;
-  margin-bottom: 1rem;
+  color: $ink;
+  letter-spacing: -0.01em;
 }
 
 h1 {
-  font-size: 2.5rem;
+  font-size: 2.8rem;
   font-weight: 700;
-  color: $dark;
+  margin-bottom: 1.5rem;
 }
 
 h2 {
   font-size: 2rem;
-  color: $dark;
-  border-bottom: 2px solid $border-color;
-  padding-bottom: 0.5rem;
-  margin-top: 2rem;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.6rem;
+  border-bottom: 1px solid $rule;
+  position: relative;
+
+  &::after {
+    content: '';
+    position: absolute;
+    bottom: -1px;
+    left: 0;
+    width: 3rem;
+    height: 2px;
+    background-color: $accent;
+  }
 }
 
 h3 {
   font-size: 1.5rem;
-  color: $primary;
-  margin-top: 1.5rem;
-}
-
-// Body text
-body {
-  font-size: 1rem;
-  line-height: 1.6;
-  color: $dark;
+  color: $ink;
+  margin-top: 1.8rem;
+  font-weight: 500;
+  font-style: italic;
 }
 
 p {
   margin-bottom: 1rem;
 }
 
-// Links
+strong {
+  font-weight: 600;
+}
+
+// === Links ===
 a {
-  color: $primary;
+  color: $accent;
   text-decoration: none;
-  transition: color 0.2s ease;
+  transition: color 0.2s ease, border-bottom-color 0.2s ease;
+  border-bottom: 1px solid transparent;
+
+  &:visited {
+    color: $accent;
+  }
 
   &:hover {
-    color: $accent-blue;
-    text-decoration: underline;
+    color: $accent-hover;
+    border-bottom-color: $accent-hover;
+    text-decoration: none;
   }
 }
 
-// Code blocks
+// === Navigation ===
+.navbar {
+  background-color: $parchment !important;
+  border-bottom: 1px solid $rule;
+  padding: 0.75rem 0;
+  transition: box-shadow 0.3s ease;
+
+  .navbar-brand {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-weight: 700;
+    font-size: 1.4rem;
+    color: $ink !important;
+    letter-spacing: 0.02em;
+  }
+
+  .nav-link {
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+    font-size: 0.875rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: $warm-gray !important;
+    padding: 0.5rem 1rem !important;
+    position: relative;
+    transition: color 0.2s ease;
+
+    &::after {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      left: 1rem;
+      right: 1rem;
+      height: 2px;
+      background-color: $accent;
+      transform: scaleX(0);
+      transition: transform 0.25s ease;
+    }
+
+    &:hover {
+      color: $ink !important;
+
+      &::after {
+        transform: scaleX(1);
+      }
+    }
+
+    &.active {
+      color: $ink !important;
+      font-weight: 600;
+
+      &::after {
+        transform: scaleX(1);
+      }
+    }
+  }
+}
+
+// Headroom shadow on scroll
+.headroom--not-top {
+  box-shadow: 0 1px 8px rgba(26, 26, 46, 0.06);
+}
+
+// === About / Home Page Layout ===
+// Shrink image column, expand content
+.quarto-about-trestles {
+  .about-entity {
+    flex: 0 0 auto !important;
+    width: auto !important;
+    max-width: 12em;
+  }
+
+  .about-contents {
+    flex: 1 1 0% !important;
+    max-width: none !important;
+  }
+}
+
+// === About Links ===
+.about-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 1.1rem;
+  margin: 0.3rem;
+  background-color: $card-bg;
+  border: 1px solid $rule;
+  border-radius: 2rem;
+  color: $warm-gray !important;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 0.875rem;
+  letter-spacing: 0.02em;
+  transition: all 0.25s ease;
+  border-bottom: none;
+
+  &:visited {
+    color: $warm-gray !important;
+    background-color: $card-bg;
+    border-color: $rule;
+  }
+
+  &:hover,
+  &:visited:hover {
+    background-color: $ink;
+    color: $parchment !important;
+    border-color: $ink;
+    text-decoration: none;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(26, 26, 46, 0.12);
+    border-bottom: none;
+  }
+}
+
+// Profile image
+.about-contents img,
+.about-entity img {
+  border: 3px solid $rule;
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: 0 4px 20px rgba(26, 26, 46, 0.08);
+
+  &:hover {
+    border-color: $accent;
+    box-shadow: 0 8px 30px rgba(26, 26, 46, 0.12);
+  }
+}
+
+// === Content Cards (publications, projects) ===
+.publication-item {
+  margin-bottom: 1.5rem;
+  padding: 1.25rem;
+  border: 1px solid $rule;
+  border-radius: 0.5rem;
+  background-color: $card-bg;
+  transition: box-shadow 0.25s ease, transform 0.25s ease;
+
+  &:hover {
+    box-shadow: 0 4px 16px rgba(26, 26, 46, 0.08);
+    transform: translateY(-1px);
+  }
+}
+
+.project-card {
+  border: 1px solid $rule;
+  border-radius: 0.5rem;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  background-color: $card-bg;
+  transition: box-shadow 0.25s ease, transform 0.25s ease;
+
+  &:hover {
+    box-shadow: 0 4px 16px rgba(26, 26, 46, 0.08);
+    transform: translateY(-1px);
+  }
+}
+
+// === Lists ===
+ul, ol {
+  padding-left: 1.5rem;
+}
+
+li {
+  margin-bottom: 0.4rem;
+  line-height: 1.7;
+}
+
+// === Horizontal Rules ===
+hr {
+  border: none;
+  border-top: 1px solid $rule;
+  margin: 2.5rem 0;
+}
+
+// === Code ===
 pre {
-  background-color: #f8fafc;
-  border: 1px solid $border-color;
+  background-color: $highlight;
+  border: 1px solid $rule;
   border-radius: 0.5rem;
   padding: 1rem;
   overflow-x: auto;
 }
 
 code {
-  background-color: #f1f5f9;
-  padding: 0.2rem 0.4rem;
+  background-color: $highlight;
+  padding: 0.15rem 0.4rem;
   border-radius: 0.25rem;
   font-size: 0.875rem;
-  color: #e11d48;
+  color: $accent-hover;
 }
 
-// Tables
+// === Blockquotes ===
+blockquote {
+  border-left: 3px solid $accent;
+  padding-left: 1.25rem;
+  margin: 1.5rem 0;
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-size: 1.15rem;
+  font-style: italic;
+  color: $warm-gray;
+  line-height: 1.8;
+}
+
+// === Tables ===
 table {
   width: 100%;
   border-collapse: collapse;
@@ -98,214 +369,196 @@ table {
   th, td {
     padding: 0.75rem;
     text-align: left;
-    border-bottom: 1px solid $border-color;
+    border-bottom: 1px solid $rule;
   }
 
   th {
-    background-color: $light;
+    background-color: $highlight;
     font-weight: 600;
-    color: $dark;
+    font-size: 0.85rem;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: $warm-gray;
   }
 
   tr:hover {
-    background-color: #f8fafc;
+    background-color: $highlight;
   }
 }
 
-// Blockquotes
-blockquote {
-  border-left: 4px solid $primary;
-  padding-left: 1rem;
-  margin: 1.5rem 0;
-  font-style: italic;
-  color: $text-muted;
-}
-
-// Navigation
-.navbar {
-  padding: 1rem 0;
-
-  .navbar-brand {
-    font-weight: 700;
-    font-size: 1.25rem;
-    color: $dark;
-  }
-
-  .nav-link {
-    font-weight: 500;
-    color: $text-muted;
-
-    &:hover {
-      color: $primary;
-    }
-
-    &.active {
-      color: $primary;
-    }
-  }
-}
-
-// Footer
+// === Footer ===
 .page-footer {
-  background-color: $light;
+  background-color: $ink;
+  color: rgba(255, 255, 255, 0.6);
   padding: 2rem 0;
   margin-top: 4rem;
-  border-top: 1px solid $border-color;
+  border-top: none;
 
   a {
-    color: $text-muted;
+    color: $accent !important;
+    border-bottom: none;
 
     &:hover {
-      color: $primary;
+      color: lighten($accent, 15%) !important;
     }
   }
 }
 
-// About page specific styles
-.about-contents {
-  .about-link {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.5rem;
-    padding: 0.5rem 1rem;
-    margin: 0.25rem;
-    background-color: $light;
-    border: 1px solid $border-color;
-    border-radius: 0.5rem;
-    color: $text-muted;
-    text-decoration: none;
-    font-weight: 500;
-    transition: all 0.2s ease;
-
-    &:hover {
-      background-color: $primary;
-      color: white;
-      border-color: $primary;
-      text-decoration: none;
-    }
-  }
-}
-
-// Publication lists
-.publication-item {
-  margin-bottom: 1.5rem;
-  padding: 1rem;
-  border: 1px solid $border-color;
-  border-radius: 0.5rem;
-  background-color: white;
-
-  .publication-title {
-    font-weight: 600;
-    color: $dark;
-    margin-bottom: 0.5rem;
-  }
-
-  .publication-authors {
-    color: $text-muted;
-    margin-bottom: 0.5rem;
-  }
-
-  .publication-venue {
-    font-style: italic;
-    color: $primary;
-    margin-bottom: 0.5rem;
-  }
-
-  .publication-links {
-    display: flex;
-    gap: 0.5rem;
-    flex-wrap: wrap;
-
-    a {
-      display: inline-flex;
-      align-items: center;
-      gap: 0.25rem;
-      padding: 0.25rem 0.5rem;
-      background-color: $light;
-      border: 1px solid $border-color;
-      border-radius: 0.25rem;
-      color: $text-muted;
-      text-decoration: none;
-      font-size: 0.875rem;
-
-      &:hover {
-        background-color: $primary;
-        color: white;
-        border-color: $primary;
-      }
-    }
-  }
-}
-
-// Project cards
-.project-card {
-  border: 1px solid $border-color;
-  border-radius: 0.5rem;
-  padding: 1.5rem;
-  margin-bottom: 1.5rem;
-  background-color: white;
-  transition: box-shadow 0.2s ease;
+// === Buttons ===
+.btn-outline-primary {
+  border-color: $accent;
+  color: $accent;
+  border-radius: 2rem;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  padding: 0.4rem 1.2rem;
+  transition: all 0.25s ease;
 
   &:hover {
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    background-color: $ink;
+    border-color: $ink;
+    color: $parchment;
   }
 
-  .project-title {
-    font-size: 1.25rem;
-    font-weight: 600;
-    color: $dark;
-    margin-bottom: 0.5rem;
-  }
-
-  .project-description {
-    color: $text-muted;
-    margin-bottom: 1rem;
-  }
-
-  .project-links {
-    display: flex;
-    gap: 0.5rem;
-    flex-wrap: wrap;
+  &:visited {
+    color: $accent;
   }
 }
 
-// Responsive design
+// === Icon spacing ===
+.fab, .fas, .far, .ai {
+  margin-right: 0.4rem;
+}
+
+// === TOC ===
+.sidebar nav[role="doc-toc"] {
+  border-left: 1px solid $rule;
+  padding-left: 1rem;
+
+  .active {
+    color: $accent !important;
+    font-weight: 600;
+  }
+
+  a {
+    color: $warm-gray;
+    border-bottom: none;
+    font-size: 0.875rem;
+
+    &:hover {
+      color: $ink;
+    }
+  }
+}
+
+// === Smooth scroll ===
+html {
+  scroll-behavior: smooth;
+}
+
+// === Focus styles ===
+a:focus,
+button:focus {
+  outline: 2px solid $accent;
+  outline-offset: 2px;
+}
+
+// === Image styles ===
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+// === Active nav highlight ===
+.navbar-nav .nav-link.active {
+  font-weight: 600;
+}
+
+// === External link icon — more subtle ===
+.quarto-title-block .description {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-size: 1.15rem;
+  font-style: italic;
+  color: $warm-gray;
+  line-height: 1.6;
+}
+
+// === Responsive ===
 @media (max-width: 768px) {
   h1 {
-    font-size: 2rem;
+    font-size: 2.2rem;
   }
 
   h2 {
-    font-size: 1.5rem;
+    font-size: 1.6rem;
   }
 
   .navbar {
     padding: 0.5rem 0;
+
+    .nav-link {
+      font-size: 0.8rem;
+      padding: 0.4rem 0.6rem !important;
+    }
   }
 
-  .publication-links,
-  .project-links {
-    flex-direction: column;
-    align-items: flex-start;
+  .about-link {
+    font-size: 0.8rem;
+    padding: 0.4rem 0.8rem;
   }
 }
 
-// Print styles
+// === Print ===
 @media print {
-  .navbar,
-  .page-footer {
+  .btn, .navbar, .page-footer {
+    display: none !important;
+  }
+
+  body {
+    font-size: 11pt;
+    line-height: 1.5;
+    background: white;
+    color: black;
+  }
+
+  h1, h2, h3 {
+    break-after: avoid;
+    color: black;
+  }
+
+  h2::after {
     display: none;
   }
 
-  a {
-    color: $dark;
-    text-decoration: none;
+  p, li {
+    break-inside: avoid;
   }
 
-  .publication-item,
-  .project-card {
-    break-inside: avoid;
-    border: 1px solid #ccc;
-    margin-bottom: 1rem;
+  a {
+    color: black;
+    border-bottom: none;
+  }
+}
+
+// === Accessibility ===
+@media (prefers-contrast: high) {
+  * {
+    border-color: #000 !important;
+  }
+
+  a {
+    text-decoration: underline !important;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  html {
+    scroll-behavior: auto;
   }
 }

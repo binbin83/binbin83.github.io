@@ -9,7 +9,7 @@ description: "Current and past research projects"
 **Traitement Automatique du LANgage Traumatique**
 
 - **Funding**: 150k€ CNRS Innovation Prematuration Grant
-- **Role**: Principal Investigator
+- **Role**: Main Contributor
 - **Collaborator**: Prof. Frédérique Gayraud
 - **Institution**: CESSP/ISC-PIF, Paris
 
@@ -43,7 +43,7 @@ This doctoral research focused on developing computational methods to identify l
 **Publications**:
 - [Systematic Literature Review](https://doi.org/10.1093/jamia/ocaf075)
 - [Interdisciplinary Approach](https://www.nature.com/articles/s41598-024-61557-7)
-- [Figures of Speech Analysis](https://hal.science/hal-05088954)
+- [Figures of Speech Analysis](https://doi.org/10.1093/applin/amaf080)
 
 ### Ministry of Health Data Science (2020-2021)
 **AI for Medical Incident Analysis**
@@ -88,7 +88,7 @@ Cross-cultural computational analysis of the #MeToo and #BalanceTonPorc movement
 ### Semantic Perseveration in Psychiatry (2024-present)
 **With Isaac Fradkin, Hebrew University of Jerusalem**
 
-- **Status**: Manuscript under review at *Schizophrenia Bulletin*
+- **Status**: Published in *Schizophrenia Bulletin* ([DOI](https://doi.org/10.1093/schbul/sbaf205))
 - **Conference**: Poster accepted at Computational Psychiatry Conference 2025
 - **Focus**: Theory-driven generative language simulations for psychiatric conditions
 
@@ -106,7 +106,7 @@ This collaboration explores the paradoxical relationship between semantic persev
 **Code**: [GitHub Repository](https://github.com/psycholinguistics2125/violent_men)
 
 ### Semi-Structured Interview Analysis (2024)
-**With Camille Payet**
+**With Charles Payet**
 
 - **Conference**: JADT 2024, LesLa
 - **Focus**: French NLP approaches for social sciences research
@@ -137,29 +137,3 @@ All research projects include open-source code contributions to ensure reproduci
 
 ---
 
-## Impact and Recognition
-
-### Awards and Funding
-- **150k€ CNRS Innovation Prematuration Grant** (2025) - TALANT Project
-- **Nominated for Prix solennel de thèse** - Chancellerie des Universités de Paris (2025)
-
-### Industry Engagement
-- **Scientific Advisor**, Celeste Technology (2023) - French mental health chatbot startup
-- **Peer Reviewer**: BJPsych Open, Annales Médico-Psychologiques
-
-### Teaching and Mentoring
-- **MSc Supervisor**: Samuel Boccara (2024) - Clinical NLP thesis
-- **Guest Lecturer**: Université Paris 1 (2024) - [Recorded seminar](https://www.youtube.com/watch?v=l9kvqLFBqNY)
-
----
-
-## Future Directions
-
-### Upcoming Projects
-- **Multilingual PTSD Detection**: Expanding TALANT to multiple languages
-- **Clinical Trial Integration**: Partnering with hospitals for real-world validation
-- **Ethical AI Framework**: Developing guidelines for mental health AI applications
-
-### Funding Applications
-- **ERC Starting Grant**: Computational approaches to trauma language (in preparation)
-- **ANR Project**: Collaborative grant with clinical partners (submitted)

@@ -13,19 +13,15 @@ website:
         text: Publications
       - href: projects.qmd
         text: Projects
-      - href: teaching.qmd
-        text: Teaching
-      - href: cv.qmd
-        text: CV
       - href: contact.qmd
         text: Contact
     right:
       - icon: github
         href: https://github.com/binbin83
       - icon: envelope
-        href: mailto:quillivicrobin@hotmail.fr
+        href: mailto:robin.quillivic@cnrs.fr
       - text: "ORCID"
-        href: https://orcid.org/0000-0009-9372-0173
+        href: https://orcid.org/0009-0009-9372-0173
 
   page-footer:
     left: "© 2025 Robin Quillivic. All rights reserved."
@@ -34,7 +30,6 @@ website:
 format:
   html:
     theme: [cosmo, custom.scss]
-    css: styles.css
     toc: true
     toc-location: right
     link-external-newwindow: true
@@ -50,5 +45,4 @@ format:
     include-in-header: |
       <link rel="preconnect" href="https://fonts.googleapis.com">
       <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-      <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-      <meta name="google-site-verification" content="your-verification-code-here">
+      <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=DM+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">

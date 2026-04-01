@@ -18,5 +18,4 @@ Sorry, the page you are looking for could not be found.
 
 - [Publications](publications.qmd)
 - [Research Projects](projects.qmd)
-- [CV](cv.qmd)
 - [Contact](contact.qmd)

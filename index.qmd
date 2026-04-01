@@ -1,10 +1,10 @@
 ---
 title: "Robin Quillivic"
 description: "Post-doctoral researcher in Clinical Decision Support Systems and Natural Language Processing for mental health"
-image: files/images/profile.jpg
+image: files/images/robin_website.jpeg
 about:
   template: trestles
-  image-width: 15em
+  image-width: 10em
   image-shape: round
   links:
     - icon: github
@@ -12,20 +12,20 @@ about:
       href: https://github.com/binbin83
     - icon: envelope
       text: Email
-      href: mailto:quillivicrobin@hotmail.fr
+      href: mailto:robin.quillivic@cnrs.fr
     - text: "{{< ai orcid >}} ORCID"
-      href: https://orcid.org/0000-0009-9372-0173
+      href: https://orcid.org/0009-0009-9372-0173
     - text: "{{< ai google-scholar >}} Google Scholar"
-      href: https://scholar.google.com/citations?user=your-id
+      href: https://scholar.google.com/citations?user=F7gDcQMAAAAJ&hl=en
     - text: "{{< ai hal >}} HAL"
-      href: https://hal.science/search/index/q/*/authFullName_s/Robin+Quillivic
+      href: https://cv.hal.science/robin-quillivic
 ---
 
 ## Welcome
 
 I am a **post-doctoral researcher** at the [Centre Européen de Sociologie et de Science Politique (CESSP)](https://cessp.cnrs.fr/) and resident at the [Centre for Complex Systems (ISC-PIF)](https://iscpif.fr/), where I develop Clinical Decision Support Systems (CDSS) for PTSD detection through Natural Language Processing.
 
-I hold a **Ph.D. in Computer Science** from [École Pratique des Hautes Études (EPHE)](https://www.ephe.psl.eu/) and currently lead the **150k€ CNRS-funded TALANT project** on trauma language analysis.
+I hold a **Ph.D. in Computer Science** from [École Pratique des Hautes Études (EPHE)](https://www.ephe.psl.eu/) and am a main contributor to the **150k€ CNRS-funded TALANT project** on trauma language analysis.
 
 ## Research Interests
 
@@ -44,7 +44,7 @@ Centre Européen de Sociologie et de Science Politique (CESSP UMR 8209) – Pari
 Resident at Centre for Complex Systems (ISC-PIF, CNRS UAR 3611) – Paris, France
 
 ### TALANT Project
-I am the Principal Investigator of the **TALANT** (Traitement Automatique du LANgage Traumatique) project, a 150k€ CNRS Innovation Prematuration Grant focused on developing automated tools for trauma language analysis. This interdisciplinary project combines computational linguistics, psychology, and clinical research to advance our understanding of trauma through language.
+I am actively involved in the **TALANT** (Traitement Automatique du LANgage Traumatique) project, a 150k€ CNRS Innovation Prematuration Grant focused on developing automated tools for trauma language analysis. This interdisciplinary project combines computational linguistics, psychology, and clinical research to advance our understanding of trauma through language.
 
 ## Recent Highlights
 
@@ -74,9 +74,3 @@ I actively collaborate with researchers worldwide, including:
 - **Telma Mimault**, Université du Québec à Trois-Rivières (intimate partner violence perpetrator studies)
 - **Rosa Arriaga**, Georgia Tech UbiComp Lab (cross-cultural social media analysis)
 
-## News & Updates
-
-- **March 2025**: Poster accepted at Computational Psychiatry Conference 2025
-- **January 2025**: Started post-doctoral position at CESSP/ISC-PIF
-- **December 2024**: Successfully defended Ph.D. thesis
-- **May 2024**: Paper published in *Journal of the American Medical Informatics Association*

@@ -9,6 +9,10 @@ description: "Research publications and scholarly output"
 
 **Quillivic, R.**, Auxéméry, Y., Gayraud, F., Dayan, J., & Mesmoudi, S. (2025). Linguistic markers for identifying post‑traumatic stress disorder and associated symptoms: a systematic literature review. *Journal of the American Medical Informatics Association*. [{{< ai doi >}}](https://doi.org/10.1093/jamia/ocaf075) [{{< fa code >}}](https://github.com/psycholinguistics2125/systematic_review)
 
+**Quillivic, R.**, Dolan, R. J., & Fradkin, I. (2025). Characterizing the Paradoxical Interplay of Semantic Perseveration and Incoherence in Psychiatry using Theory-Driven Generative Language Simulations. *Schizophrenia Bulletin*. [{{< ai doi >}}](https://doi.org/10.1093/schbul/sbaf205) [{{< fa code >}}](https://github.com/psycholinguistics2125/paraphrase_detection)
+
+**Quillivic, R.**, et al. (2025). Figures of Speech As a Linguistic Marker of Post-traumatic Stress Disorder. *Applied Linguistics*. [{{< ai doi >}}](https://doi.org/10.1093/applin/amaf080)
+
 ### 2024
 
 **Quillivic, R.**, Gayraud, F., Auxéméry, Y., et al. (2024). Interdisciplinary approach to identify language markers for PTSD using machine and deep learning. *Scientific Reports*, 14, 11206. [{{< ai doi >}}](https://www.nature.com/articles/s41598-024-61557-7) [{{< fa code >}}](https://github.com/psycholinguistics2125/linguistic_code_of_ptsd)
@@ -33,17 +37,9 @@ Boccara, S., Mesmoudi, S., Dayan, J., & **Quillivic, R.** (2024, June). *Quantiz
 
 Lopez, I., **Quillivic, R.**, Evans, H., & Arriaga, R.I. (2019). *Denouncing Sexual Violence: A Cross-Language and Cross-Cultural Analysis of #MeToo and #BalanceTonPorc*. **Proceedings of the 17th IFIP Conference on Human-Computer Interaction (INTERACT)**. [{{< ai hal >}}](https://inria.hal.science/hal-02544580/document) [{{< fa code >}}](https://github.com/binbin83/metoo_project)
 
-## Preprints and Papers Under Review
-
-### Under Review
+## Papers Under Review
 
 Mimault, T.*, **Quillivic, R.***  et al. *A linguistic study of the traumatic discourse used by intimate partner violence perpetrators: a pilot study*. **Under review** at *Journal of Psychiatric Research*. [{{< fa code >}}](https://github.com/psycholinguistics2125/violent_men)
-
-**Quillivic, R.**, Dolan, R. J., & Fradkin, I. (2025). *Characterizing the Paradoxical Interplay of Semantic Perseveration and Incoherence in Psychiatry using Theory‑Driven Generative Language Simulations*. **Under review** at *Schizophrenia Bulletin*. [{{< ai hal >}}](https://hal.science/hal-05086512) [{{< fa code >}}](https://github.com/psycholinguistics2125/paraphrase_detection)
-
-### Preprints
-
-**Quillivic, R.**, et al. (2024). *Figures of Speech as a Linguistic Marker of Post‑Traumatic Stress Disorder*. [{{< ai hal >}}](https://hal.science/hal-05088954)
 
 ## Book Chapters
 
@@ -75,10 +71,10 @@ Regular reviewer for journals in computational psychiatry and natural language p
 
 ---
 
-*{{< fa asterisk >}} indicates equal contribution*
+*\* indicates equal contribution*
 
 ## Research Metrics
 
-- **ORCID**: [0000-0009-9372-0173](https://orcid.org/0000-0009-9372-0173)
-- **Google Scholar**: [Profile](https://scholar.google.com/citations?user=your-id)
-- **HAL**: [Publications](https://hal.science/search/index/q/*/authFullName_s/Robin+Quillivic)
+- **ORCID**: [0009-0009-9372-0173](https://orcid.org/0009-0009-9372-0173)
+- **Google Scholar**: [Profile](https://scholar.google.com/citations?user=F7gDcQMAAAAJ&hl=en)
+- **HAL**: [Publications](https://cv.hal.science/robin-quillivic)
